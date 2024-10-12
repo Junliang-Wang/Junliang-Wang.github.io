@@ -1,0 +1,12 @@
+th {
+cursor: pointer;
+}
+
+th.sorted-asc::after {
+content: "▲"; /* Upward arrow */
+}
+
+th.sorted-desc::after {
+content: "▼"; /* Downward arrow */
+}
+  

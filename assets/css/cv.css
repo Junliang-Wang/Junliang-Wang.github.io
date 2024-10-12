@@ -1,0 +1,51 @@
+.education-section {
+    color: #4a7a4d;
+    margin: 40px 0;
+}
+
+.education-section h2 {
+    color: #4a7a4d;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.education-item {
+    margin-bottom: 30px;
+}
+
+.education-item .date {
+    color: #a0a0a0;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.education-item h3 {
+    font-size: 1.5rem;
+    color: #4a7a4d;
+    margin: 5px 0;
+}
+
+.education-item .university {
+    font-style: italic;
+    color: #a0a0a0;
+    margin-bottom: 10px;
+}
+
+.education-item .details {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.education-item .details li {
+    color: #a8334c;
+    font-size: 1rem;
+}
+
+.details strong {
+    color: #a8334c;
+}
+
+.details em {
+    color: #a8334c;
+}
