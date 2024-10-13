@@ -27,60 +27,157 @@
     }
   }
 
-  .image-with-text-2 {
-    position: relative;
-    display: inline-block;
-    width: 100%; /* Adjust the width as needed */
-    max-width: 800px; /* You can limit the max width of the image */
-    overflow: hidden; /* Ensure the overlay stays inside the container */
-  
-    img {
-      width: 100%; /* Make the image take the full width of the container */
-      height: auto; /* Maintain aspect ratio */
-      display: block;
-    }
-  
-    /* Add the semi-transparent black overlay */
-    &::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background-color: rgba(0, 0, 0, 0.15); /* 50% black transparency */
-      z-index: 1; /* Ensures overlay is between the image and the text */
-    }
-  
-    .image-text {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      text-align: center;
-      z-index: 2;
-      width: 90%;
-    }
-  
-    /* Main title */
+.image-with-text-2 {
+  position: relative;
+  display: inline-block;
+  width: 100%; /* Adjust the width as needed */
+  max-width: 800px; /* You can limit the max width of the image */
+  overflow: hidden; /* Ensure the overlay stays inside the container */
+
+  img {
+    width: 100%; /* Make the image take the full width of the container */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+  }
+
+  /* Add the semi-transparent black overlay */
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.15); /* 50% black transparency */
+    z-index: 1; /* Ensures overlay is between the image and the text */
+  }
+
+  .image-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 2;
+    width: 90%;
+  }
+
+  /* Main title */
+  .main-title {
+    color: white;
+    font-size: 3em; /* Adjust for larger size */
+    font-weight: 700; /* Bold */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Optional shadow */
+    margin-bottom: 0.3em; /* Spacing between title and subtitle */
+  }
+
+  /* Subtitle */
+  .subtitle {
+    color: white;
+    font-size: 1.5em; /* Smaller than the main title */
+    font-weight: 400; /* Thinner font weight */
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* Optional faint shadow */
+    margin-top: 0; /* No extra margin above */
+  }
+  /* Media query for phones (max-width 768px) */
+  @media (max-width: 768px) {
     .main-title {
-      color: white;
-      font-size: 3em; /* Adjust for larger size */
-      font-weight: 700; /* Bold */
-      text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Optional shadow */
-      margin-bottom: 0.3em; /* Spacing between title and subtitle */
+      font-size: 2em; /* Smaller size for title on phones */
     }
-  
-    /* Subtitle */
+
     .subtitle {
-      color: white;
-      font-size: 1.5em; /* Smaller than the main title */
-      font-weight: 400; /* Thinner font weight */
-      text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* Optional faint shadow */
-      margin-top: 0; /* No extra margin above */
+      font-size: 1.2em; /* Smaller size for subtitle on phones */
     }
   }
+
+  /* Media query for very small phones (max-width 576px) */
+  @media (max-width: 576px) {
+    .main-title {
+      font-size: 1.5em; /* Even smaller size for title on very small screens */
+    }
+
+    .subtitle {
+      font-size: 1em; /* Even smaller size for subtitle */
+    }
+  }
+}
+
+.title-without-image {
+  position: relative;
+  display: inline-block;
+  width: 100%; /* Adjust the width as needed */
+  max-width: 800px; /* You can limit the max width of the image */
+  text-align: center;
+  z-index: 2;
+  color: black;
   
+  /* Main title */
+  .main-title {
+    font-size: 3em; /* Adjust for larger size */
+    font-weight: 700; /* Bold */
+    margin-bottom: 0em; /* Spacing between title and subtitle */
+  }
+
+  /* Subtitle */
+  .subtitle {
+    font-size: 1.5em; /* Smaller than the main title */
+    font-weight: 500; /* Thinner font weight */
+    margin-top: 0; /* No extra margin above */
+    margin-bottom: 0.5em; /* Spacing between title and subtitle */
+  }
+
+  /* Media query for phones (max-width 768px) */
+  @media (max-width: 768px) {
+    .main-title {
+      font-size: 2em; /* Smaller size for title on phones */
+    }
+
+    .subtitle {
+      font-size: 1.2em; /* Smaller size for subtitle on phones */
+    }
+  }
+
+  /* Media query for very small phones (max-width 576px) */
+  @media (max-width: 576px) {
+    .main-title {
+      font-size: 1.5em; /* Even smaller size for title on very small screens */
+    }
+
+    .subtitle {
+      font-size: 1em; /* Even smaller size for subtitle */
+    }
+  }
+}
+
+
+.image-with-description {
+  position: relative;
+  display: inline-block;
+  width: 100%; /* Adjust the width as needed */
+  max-width: 800px; /* You can limit the max width of the image */
+
+  img {
+    width: 100%; /* Make the image take the full width of the container */
+    height: auto; /* Maintain aspect ratio */
+  }
+
+  .image-text {
+    position: absolute;
+    // bottom: 20px; /* Adjust this to position the text vertically */
+    // left: 20px; /* Adjust this to position the text horizontally */
+      top: 0%; /* Centers the text vertically */
+      left: 0%; /* Centers the text horizontally */
+      // transform: translate(-50%, -50%); /* Adjusts for the height and width of the text itself */
+      text-align: left; /* Center text inside the text box */
+    color: black; /* Text color (change as needed) */
+    font-size: 1.5em; /* Adjust the text size */
+    // background-color: rgba(0, 0, 0, 0.5); /* Optional: Background behind text for better visibility */
+    // padding: 10px;
+    // font-weight: bold; /* Optional: Make the text bold */
+  }
+}
+
+
 .excerpt-image {
     max-width: 20%;
     height: auto;

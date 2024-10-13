@@ -2,13 +2,13 @@
 layout: post
 title: "Trust the process"
 date: 2024-02-25 07:00:00 +0000
-categories: reflections
+# categories: reflections
 show_title: false
 # excerpt: "What do we need to achieve our goals? Is it motivation? No, it's not. As David Goggins says, “Motivation is crap”."
 # excerpt_image: "/assets/images/trust_2.png"
 ---
 <div class="image-with-text-2">
-  <img src="/assets/images/trust_1.png" alt="Trust the process">
+  <img src="/assets/images/posts/2024-02-25-trust-the-process/trust_1.png" alt="Trust the process">
   <div class="image-text">
     <div class="main-title">Trust the process</div>
     <div class="subtitle">The side effects of chasing goals</div>

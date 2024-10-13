@@ -2,13 +2,13 @@
 layout: post
 title: "Quotes that fit in my pocket"
 date: 2024-03-17 07:00:00 +0000
-categories: reflections
+# categories: reflections
 show_title: false
 # excerpt: ""
 # excerpt_image: "/assets/images/my-excerpt-image.jpg"
 ---
 <div class="image-with-text-2">
-  <img src="/assets/images/quotes_1.png" alt="Quotes that fit in my pocket">
+  <img src="/assets/images/posts/2024-03-17-pocked-sized-quotes/quotes_1.png" alt="Quotes that fit in my pocket">
   <div class="image-text"> <!-- Custom color here -->
     <div class="main-title"> Quotes that fit in my pocket</div>
   </div>
