@@ -169,7 +169,7 @@ ___
 ___
 
 <br>
-
+<!-- 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js"></script>
 <script>
@@ -178,7 +178,7 @@ ___
       headers: { 2: { sorter: 'digit' } } // Sort based on the Rating column
     });
   });
-</script>
+</script> -->
 
 <!-- <table id="book-table" data-sort-column="2" data-sort-method="desc">
   <thead>

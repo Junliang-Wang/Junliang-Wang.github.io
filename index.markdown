@@ -6,8 +6,6 @@ layout: home
 ---
 <link rel="stylesheet" href="{{ '/assets/css/index_styling.css' | relative_url }}">
 
-<p style="text-align: center; font-size: 20px; color: grey;"><i>Website migration in progress...</i></p>
-
 <div class="profile-container">
   <div class="profile-image">
     <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Profile Picture">
@@ -37,3 +35,4 @@ layout: home
 </div>
 
 <br>
+

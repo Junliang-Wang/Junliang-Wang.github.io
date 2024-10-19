@@ -1,0 +1,87 @@
+
+
+<!-- Inline CSS for table styling -->
+<style>
+    #book-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    
+    #book-table th {
+      padding: 10px;
+      text-align: left;
+      background-color: #f4f4f4;
+      font-weight: bold;
+      border: 1px solid #ddd;
+      width: 50px;  /* Column 1: # */
+    }
+
+    #book-table td {
+      padding: 10px;
+      text-align: left;
+      border: 1px solid #ddd;
+      white-space: normal; /* Allow text wrapping */
+    }
+
+    #book-table th:nth-child(1), #book-table td:nth-child(1) { width: 150px; } /* Column 1: Book */
+    #book-table th:nth-child(2), #book-table td:nth-child(2) { width: 50px; } /* Column 1: Book */
+    #book-table th:nth-child(3), #book-table td:nth-child(3) { width: 5px; } /* Column 1: Book */
+    #book-table th:nth-child(4), #book-table td:nth-child(4) { width: 5px; } /* Column 1: Book */
+
+    /* Media query for screens smaller than 576px (phones) */
+    @media (max-width: 576px) {
+        #book-table th, #book-table td {
+            font-size: 12px; /* Further reduce font size for phones */
+            padding: 5px;    /* Reduce padding further */
+        }
+        
+        #book-table th, #book-table td {
+            padding: 5px; /* Reduce padding for smaller screens */
+        }
+        
+        /*
+        #book-table th:nth-child(1), #book-table td:nth-child(1) {
+            width: 100px;
+        }
+
+        #book-table th:nth-child(2), #book-table td:nth-child(2) {
+            width: 50px;
+        }
+
+        #book-table th:nth-child(3), #book-table td:nth-child(3) {
+            width: 5px;
+        }
+
+        #book-table th:nth-child(4), #book-table td:nth-child(4) {
+            width: 5px;
+        }
+        */
+    }
+    </style>
+
+
+<table id="book-table" data-sort-column="3" data-sort-method="desc">
+    <thead>
+      <tr>
+        <!-- <th>#</th> -->
+        <th>Book</th>
+        <th>Author</th>
+        <th>Rating</th>
+        <th>Version</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Loop through the specified CSV file -->
+      {% assign csv_data = site.data[include.csv_file] %}
+      {% for row in csv_data %}
+      <tr>
+        <!-- <td>{{ row.Number }}</td> -->
+        <td>{{ row.Book }}</td>
+        <td>{{ row.Author }}</td>
+        <td>{{ row.Rating }}</td>
+        <td>{{ row.Version }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  
