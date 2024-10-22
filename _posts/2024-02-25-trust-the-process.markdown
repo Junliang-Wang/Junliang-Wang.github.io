@@ -4,7 +4,14 @@ title: "Trust the process"
 date: 2024-02-25 07:00:00 +0000
 # categories: reflections
 show_title: false
-# excerpt: "What do we need to achieve our goals? Is it motivation? No, it's not. As David Goggins says, “Motivation is crap”."
+excerpt: "
+Is it motivation?
+No, it's not.
+As David Goggins says, “Motivation is crap”.
+Motivation is just a temporary state.
+What's really necessary is discipline, and putting in thousands of hours.
+Whether you plan to lose weight, run 100 miles, or be financially independent, you must work hard consistently.
+"
 # excerpt_image: "/assets/images/trust_2.png"
 ---
 <div class="image-with-text-2">

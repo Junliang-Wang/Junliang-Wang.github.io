@@ -11,7 +11,7 @@
 .profile-image img {
   border-radius: 15px;
   max-width: 250px;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 4px 10px rgb(0,0,0,0.1);
   margin-right: 40px;
 }
 
@@ -21,12 +21,14 @@
 
 .profile-content h1 {
   font-size: 3rem;
+  /* color: #000000; */
   color: #4a7a4d;
 }
 
 .profile-content p {
   font-size: 1.2rem;
   line-height: 1.6;
+  /* color: #000000; */
   color: #4a7a4d;
   text-align: justify;
   padding: 10px;
@@ -49,6 +51,8 @@
   background-color: transparent;
   border: 2px solid #4a7a4d;
   color: #4a7a4d;
+  /* border: 2px solid #000000;
+  color: #000000; */
   text-decoration: none;
   border-radius: 5px;
   font-size: 1.1rem;
@@ -57,6 +61,7 @@
 }
 
 .profile-buttons .btn:hover {
+  /* background-color: #000000; */
   background-color: #4a7a4d;
   color: white;
 }

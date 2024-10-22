@@ -4,6 +4,11 @@ title: "A year in pixels"
 date: 2024-01-21 07:00:00 +0000
 # categories: reflections
 show_title: false
+excerpt: "
+First of all, for those who don’t know me well, I am a productivity nerd. 
+I love data, simple habits and analyze myself. 
+Since we entered the new year recently, today’s post is about the question: “How was my last year?”.
+"
 # excerpt_image: "/assets/images/trust_2.png"
 ---
 <div class="title-without-image">

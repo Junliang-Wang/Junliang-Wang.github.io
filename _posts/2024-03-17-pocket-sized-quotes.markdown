@@ -4,7 +4,11 @@ title: "Quotes that fit in my pocket"
 date: 2024-03-17 07:00:00 +0000
 # categories: reflections
 show_title: false
-# excerpt: ""
+excerpt: "People collect coins and antiques; I collect quotes.
+A few well-chosen words can contain a book-worth of knowledge. 
+How powerful is that? 
+To me, quotes are simply pocket-sized life lessons! 
+And the best ones do not even need context!"
 # excerpt_image: "/assets/images/my-excerpt-image.jpg"
 ---
 <div class="image-with-text-2">
