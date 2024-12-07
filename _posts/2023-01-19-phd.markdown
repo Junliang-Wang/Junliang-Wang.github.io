@@ -12,7 +12,9 @@ But, as a disclaimer, I don't recommend it to everyone!
 # excerpt_image: "/assets/images/trust_2.png"
 ---
 <div class="cover-image">
-  <img src="/assets/images/posts/2023-01-19-phd/phd_lab_snow.webp" alt="M building of Institut Néel">
+  <div class="image-container">
+    <img src="/assets/images/posts/2023-01-19-phd/phd_lab_snow.webp" alt="M building of Institut Néel">
+  </div>
   <div class="image-text">
     <div class="main-title">My PhD: behind the scenes</div>
     <div class="subtitle">Ups and downs of becoming a doctor</div>
@@ -153,9 +155,7 @@ The truth was that **by slowing down on these seemingly boring issues, I was acc
     See what can be, not just what is.
   </div>
   <div class="quote-author">
-    — David J. 
-  
-  Schwartz, the author of The Magic of Thinking Big
+    — David J. Schwartz, the author of The Magic of Thinking Big
   </div>
 </div>
 

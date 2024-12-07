@@ -12,7 +12,9 @@ And the best ones do not even need context!"
 # excerpt_image: "/assets/images/my-excerpt-image.jpg"
 ---
 <div class="cover-image">
-  <img src="/assets/images/posts/2024-03-17-pocked-sized-quotes/quotes_1.png" alt="Quotes that fit in my pocket">
+  <div class="image-container">
+    <img src="/assets/images/posts/2024-03-17-pocked-sized-quotes/quotes_1.png" alt="Quotes that fit in my pocket">
+  </div>
   <div class="image-text"> <!-- Custom color here -->
     <div class="main-title"> Quotes that fit in my pocket</div>
   </div>

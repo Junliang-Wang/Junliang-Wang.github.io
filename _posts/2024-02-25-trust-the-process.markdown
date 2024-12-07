@@ -15,7 +15,9 @@ Whether you plan to lose weight, run 100 miles, or be financially independent, y
 # excerpt_image: "/assets/images/trust_2.png"
 ---
 <div class="cover-image">
-  <img src="/assets/images/posts/2024-02-25-trust-the-process/trust_1.png" alt="Trust the process">
+  <div class="image-container">
+    <img src="/assets/images/posts/2024-02-25-trust-the-process/trust_1.png" alt="Trust the process">
+  </div>
   <div class="image-text">
     <div class="main-title">Trust the process</div>
     <div class="subtitle">The side effects of chasing goals</div>
