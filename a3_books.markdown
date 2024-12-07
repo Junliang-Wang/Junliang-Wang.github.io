@@ -2,6 +2,7 @@
 layout: page
 title: Books
 permalink: /books/
+show_in_header: true
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js"></script>

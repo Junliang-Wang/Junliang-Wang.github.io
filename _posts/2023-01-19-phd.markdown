@@ -1,0 +1,295 @@
+---
+layout: post
+title: "My PhD: behind the scenes"
+date: 2023-01-19 07:00:00 +0000
+permalink: /phd/
+# categories: reflections
+show_title: false
+excerpt: "
+I am extremely proud of my personal growth during the last years, and my PhD experience has a lot to do about it.
+But, as a disclaimer, I don't recommend it to everyone!
+"
+# excerpt_image: "/assets/images/trust_2.png"
+---
+<div class="cover-image">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_lab_snow.webp" alt="M building of Institut Néel">
+  <div class="image-text">
+    <div class="main-title">My PhD: behind the scenes</div>
+    <div class="subtitle">Ups and downs of becoming a doctor</div>
+  </div>
+  <div class="image-caption">M building of Institut Néel.</div>
+</div>
+
+I am extremely proud of my personal growth during the last years, and **my PhD experience** has a lot to do about it.
+But, as a disclaimer, I don't recommend it to everyone!
+
+In a nutshell, I joined the chaos and had the **impostor syndrome**.
+I developed **game-changer habits** and absorbed the knowledge from experts.
+I fought countless problems while **questioning my motivation**.
+I took shortcuts and hit the wall every… single… time.
+I started to **slow down in order to go fast**.
+I became obsessed and kept running towards the goals.
+I **delegated projects** and collected more rewards than expected.
+I networked in foreign countries and published in **prestigious journals**.
+Overall, this marathon-long roller coaster has shaped my mind to be fearless and have hunger for impossible challenges.
+
+However, I am aware that **it's always easier to look back**.
+It's funny how, over time, our brain smoothes out sufferings and keeps the positive emotions.
+This is why, this post is a quick glance of the ups and, most importantly, the **downs of my doctorate journey**.
+Hopefully, it provides **useful insights** for current or future PhD candidates.
+
+<div class="main-section">What I am doing here?</div>
+
+The first time I stepped inside Institut Néel (Grenoble, France) was back in 2017 for my master internship. 
+Having zero experience in cryogenics (temperatures below 4K), my first thought in the lab was: **_"oh… what a chaotic place…"_**. 
+If you look at the photos below, you may grasp the idea. 
+Weird-looking instruments, wild-hanging cables and unlabeled valves. 
+I couldn't recognize any order, and thus my anxiety-meter started to rise.
+
+<div class="post-image">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_lab_entrance.webp" alt="Inside M building">
+  <div class="image-caption">Inside M building with cryogenic setups at the left and an optical table at the right (2017).</div>
+</div>
+
+<div class="post-image">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_melusine.webp" alt="Melusine, my lovely cryostat">
+  <div class="image-caption">Melusine, my lovely cryostat, who works like a charm despite her messy-looking appearance.</div>
+</div>
+
+From the very first day, I was flooded by countless unfamiliar concepts such as 2D electron gas, helium mixture or stability diagram. 
+**I felt like a fish in space**: absolutely no idea what I was doing and why I was there. 
+
+I was overwhelmed and a bit stressed. 
+To calm myself, I started a habit that turned out to be a game changer even for my personal life: compulsive **note-taking**.
+
+Taking notes is not only for storing and organizing information. 
+It actually plays a key role to **digest ideas** due to the simple fact of consciously writing down concepts with one's own wording. 
+Digital or paper, it doesn't really matter. 
+I prefer, however, the former because it can be accessed from anywhere and at any time while having minimal risk of losing its content. 
+
+As an example, you can see below a snapshot of a **daily task log** from my OneNote. 
+Up to date, this is still the first thing I do every morning (even before the coffee!). 
+In 5 min, I write down the priority tasks for the day. 
+They have to be **specific and fast to execute**. 
+Trust me, our brains just love whenever we check a box!
+
+<div class="post-image-horizontal-small">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_onenote_1.webp" alt="A daily log featuring fast executable tasks.">
+  <div class="image-caption">A daily log featuring fast executable tasks.</div>
+</div>
+
+<div class="main-section">Problems, problems and problems</div>
+
+The one thing that any PhD student can relate is that **unexpected problems happen _all_ the time**. 
+On top of the already challenging research objective and tight schedule, we must allocate extra time to solve apparently endless technical issues. 
+
+Let me give you a *personal example* that delayed my work for several months. 
+In my field, fabricating a nano-device often takes two to three months. 
+Now, add on top the fact that electrostatic discharges can easily kill a sample (e.g. 
+by wearing a cotton sweater). 
+**Guess what?** Even though I was extremely careful during its physical manipulation, no sample survived at the beginning (see an exploded device below). 
+It turned out that some old solder joints were unstable during the process of cool down, inducing rapid and large voltage switches. 
+Not only it took me weeks to figure out the problem, but I had to be back in the clean room to fabricate new devices.
+
+More unexpected problems kept me busy and I started to feel no progress at all. 
+**Stress, anxiety and lost of motivation** were just few unavoidable emotions of a doctorate journey. 
+Looking back now, my relentless attitude of facing these _down_ moments strongly contributed to the success of my personal development.
+
+<div class="post-image">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_sample_before.webp" alt="A perfect device after fabrication.">
+  <div class="image-caption">A perfect device after fabrication. 
+
+White parts correspond to nanometric gold contacts.</div>
+</div>
+
+<div class="post-image">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_sample_after.webp" alt="The same device, but destroyed after the cool down.">
+  <div class="image-caption">The same device, but destroyed after the cool down due to the unstable setup.</div>
+</div>
+
+
+<div class="main-section">Let's pump the yield up</div>
+
+A primary challenge of my PhD is the **nanofabrication** process of the devices. 
+They have often tens of metallic structures at a **nanometric scale** (a 1000 time smaller than a human hair!). 
+This means that an innocent dust can ruin the sample.
+
+When I joined the group, the fabrication recipe had a **success yield around 50%**. 
+This number was simply too low considering the facts that the process usually takes few months and we fabricate a handful of devices at the time. 
+Most importantly, **it hurts**. 
+Imagine after cooking a beautiful pie, it gets smashed on the floor. 
+Yes. 
+Now you can grasp the feeling when one of our carefully made devices get destroyed.
+
+Nanofabrication taught me two important lessons: **be patient and care about the details**. 
+For example, I realized how important was to take many detailed pictures of the devices after each step, even though it was time consuming. 
+Thanks to this habit, every time I spotted a problem, I could narrow down between which stages the damaged occurred. 
+Therefore, it allowed me to come up with custom solutions. 
+By caring about every single detail in the process, I managed to achieve an **almost 100% fabrication yield**.
+
+Let me show you **my most beloved sample** (see below). 
+Leaving the science for another day, the colored patterns are equivalent to nanoscopic "highways" for electrons! 
+If you want to see **other weird-looking designs**, check out my nanofab collection!
+
+<div class="post-image">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_hbt9.webp" alt="My final device, namely HBT9, where I got my main results.">
+  <div class="image-caption">My final device, namely HBT9, where I got my main results.</div>
+</div>
+
+<div class="main-section">Boring tasks</div>
+
+Even though my research was about physics, the reality was that most of the time I was not doing physics. 
+Nanofabrication, setup characterization, soldering and coding filled my ToDo list. 
+Each of them was time consuming and, from a research perspective, not exciting. 
+Since I was sometimes lazy, I took shortcuts. 
+In other words, I was putting the minimal effort to make something works, skipping steps in the standard process. 
+Needless to say, this was a terrible approach. 
+Via the hard way of destroying samples and messing up the setup, I learned the obvious lesson: **there are no shortcuts**. 
+With a renewed mindset, I did my best on each task regardless of my motivation. 
+The truth was that **by slowing down on these seemingly boring issues, I was accelerating towards my goals**.
+
+<div class="quote-container">
+  <div class="quote">
+    See what can be, not just what is.
+  </div>
+  <div class="quote-author">
+    — David J. 
+  
+  Schwartz, the author of The Magic of Thinking Big
+  </div>
+</div>
+
+<div class="main-section">Becoming obsessed</div>
+
+I probably don't need to convince you that motivation is an important drive for anything we do. 
+I was constantly asking myself the most basic question: **"Why I am doing this?"**. 
+For some people, they pursued a PhD for the love of science, while for others, it was a personal challenge. 
+Sadly for many, this journey was an inertial continuation of their studies. 
+In my case, I was motivated by the pure ambition to achieve challenging goals. 
+I wanted to struggle with complicated problems to discover essential skills for my future projects.
+
+Over time, I became **obsessed with my PhD project**; not in a negative way, though. 
+I was still priotizing social events, sports, healthy food and a good sleep above work. 
+However, I encouraged my brain to reflect on my research at any time. 
+While gardening, for instance, I wondered about strange features in my graphs. 
+During a chill run, my mind came up with creative experiments. 
+Basically, these off-lab activities gave me **plenty of headspace** to think without any pressure. 
+Some of my best ideas appeared during these periods!
+
+The bottom line here is an extremely intuitive fact: **if you want to achieve greatness in anything, you have to be obsessed**.
+
+<div class="post-image-vertical">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_tomatoes.webp" alt="My army of tomatoes flourishing along with my experiments.">
+  <div class="image-caption">My army of tomatoes flourishing along with my experiments.</div>
+</div>
+
+
+<div class="main-section">Trusting others</div>
+
+During my studies, **I hated group projects**. 
+I was uncomfortable with the idea that my grades depended on someone else. 
+Only if I had paid more attention to my surroundings, I would have noticed signs of teamwork everywhere. 
+The confirmation of the Higgs boson, the detection of gravitational waves, the construction of the largest fusion reaction (ITER) or the first image of a black hole. 
+The success of these ambitious projects was strongly linked to collaborative efforts of countless people.
+
+Why am I telling you this? My doctorate project had four objectives. 
+By the end of my second year, I haven't succeeded in any of them. 
+I felt I was close to get results, but, only with a year left, there was simply no enough time. 
+After a long consideration, I came down to the **only possible solution**: delegate a couple of objectives, so I can focus fully on the rest.
+
+Honestly, I was uncomfortable to give away my progress to someone else. 
+Obviously, **that was my ego talking**. 
+After discussing with my supervisor, I delegated tasks to collaborators. 
+At the beginning, the process was slow because I had to teach them how to perform the experiments or simulate the devices. 
+Before I knew it, the research was going smoothly without my interventions. 
+I began to like the role of supervisor.
+
+Few months later, both objectives were achieved! 
+We published our findings in
+<a href="https://link.aps.org/doi/10.1103/PhysRevResearch.4.043163" target="_blank">Physical Review Research</a>
+and in the high-impact journal
+<a href="https://doi.org/10.1103/PhysRevX.12.031035" target="_blank">Physical Review X</a>. 
+Working in a collaboration has its ups and downs, and this time it paid off by a large margin. 
+I am glad to have learnt to silent my ego and **trust the others**.
+
+<div class="post-image-horizontal-small">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_chirp.webp" alt="Artistic image called 'a moving melody'">
+  <div class="image-caption">Artistic image called "a moving melody" from the dissemination journal <a href="https://physics.aps.org/articles/v15/132" target="_blank">Physics</a> about our PRX paper.</div>
+</div>
+
+
+<div class="main-section">Eureka!</div>
+
+In research, there is rarely an "Eureka!" moment. 
+If you are like me, you would be **skeptical** whenever you see something interesting in the data. 
+Only by performing many follow-up measurements to discard other explanations, I can slowly start to believe it. 
+However, there was **one memorable moment** that truly made my heart to race due to excitement. 
+And, it turned out that I was right.
+
+Let me just give you a brief background. 
+One of my goal was to **collide two electrons** and see their repulsive effect. 
+Skipping the experimental details, I was looking for a peak in a gigantic parameter space. 
+In other words, a needle in a haystack.
+
+One afternoon, while analyzing data from other experiments, **my eyes caught something strange**: a tiny excess in the probability. 
+With a lot of skepticism, I played around with the data and the feature was still there. 
+**"Hmm… interesting"**, I thought. 
+So I immediately stopped the measurement in progress and went on the hunt for confirmation. 
+An hour later, I had a big smile on my face. 
+I was staring at a peak which could be the signature of two electrons colliding. 
+
+
+This memorable moment was captured in my notes (see below). 
+Since then, I optimized the parameters and, with help from theoreticians, we unveiled the exact mechanism. 
+With this finding, three out of four objectives were achieved! 
+At the time of this writing, I am really proud to announce that this work has been recently accepted for publication in the prestigious journal <a href="https://doi.org/10.1038/s41565-023-01368-5" target="_blank">Nature Nanotechnology</a>!
+
+
+<div class="post-image-horizontal-small">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_onenote_2.webp" alt="A memorable Eureka moment.">
+  <div class="image-caption">A memorable Eureka moment when I saw, for the first time, the unique signature of two electrons colliding.</div>
+</div>
+
+<div class="main-section">End of chapter</div>
+
+I had **a mix feeling** about writing the thesis. 
+On one hand, I was curious about my communication skills and desired to share technical details. 
+However, the fact that only a handful of people will read it was demotivating. 
+So, even though I wanted to have a "perfect" manuscript, I put myself a **hard deadline**. 
+Instead of the typically 4 to 6 months, I wanted to finish the writing in 3. 
+
+The **routine** was extremely boring: wake up, write, lunch, write, sport (really necessary!), dinner, sleep and repeat. 
+Due to the long sitting hours, my back started to complain. 
+Even after I finished the manuscript, the pain didn't go away for weeks. 
+So, a gently reminder to **regularly stretch during writing**!
+
+I managed to be on time and everyone was really happy with the writing quality. 
+If you are bored and curious, you can check the manuscript <a href="https://1drv.ms/b/s!AhCoXOs9bWF3pJt7UC0MgzT9_0SfQg?e=oDEFVK" target="_blank">here</a>.
+I also leave you below a photo of the **book version** with a meaningful cover! 
+
+
+<div class="post-image">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_book.webp" alt="My PhD thesis.">
+  <div class="image-caption">
+  My PhD thesis. Cover: two electrons flying in parallel while getting entangled (blurry lines). Potential simulations (color spectrum) overlying on the nano-device (white patterns).
+  </div>
+</div>
+
+Soon after the submission, I successfully defended my thesis and **officially become a doctor**! 
+You can see my happy face with a funny graduation hat.
+
+<div class="post-image-vertical">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_defense.webp" alt="Me, with a typical 'German graduation hat' after officially obtaining my PhD.">
+  <div class="image-caption">Me, with a typical "German graduation hat" after officially obtaining my PhD.</div>
+</div>
+
+<div class="main-section">Surrounded by giants</div>
+
+Let me say it again: I am very proud of **my personal growth**. 
+This is thanks to the **amazing people** that walked by my side during these years. 
+I had the best supervisor I could ever ask for; responsible and funny flatmates that made me feel like at home; hiking and skiing partners who shared my love of nature; a Spanish gang which saved me from homesick; countless patient mentors from who I learnt so much; and a supportive family that was always there. 
+Definitely, people were the best part of this **tough, but great journey**.
+
+<div class="post-image">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_people.webp">
+</div>

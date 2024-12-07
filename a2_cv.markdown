@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
+show_in_header: true
 ---
 <br>
 

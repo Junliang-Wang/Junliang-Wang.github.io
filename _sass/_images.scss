@@ -1,55 +1,36 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-.image-with-text {
-    position: relative;
-    display: inline-block;
-    width: 100%; /* Adjust the width as needed */
-    max-width: 800px; /* You can limit the max width of the image */
-  
-    img {
-      width: 100%; /* Make the image take the full width of the container */
-      height: auto; /* Maintain aspect ratio */
-    }
-  
-    .image-text {
-      position: absolute;
-    //   bottom: 20px; /* Adjust this to position the text vertically */
-    //   left: 20px; /* Adjust this to position the text horizontally */
-        top: 50%; /* Centers the text vertically */
-        left: 50%; /* Centers the text horizontally */
-        transform: translate(-50%, -50%); /* Adjusts for the height and width of the text itself */
-        text-align: center; /* Center text inside the text box */
-      color: white; /* Text color (change as needed) */
-      font-size: 1.5em; /* Adjust the text size */
-      background-color: rgba(0, 0, 0, 0.5); /* Optional: Background behind text for better visibility */
-      padding: 10px;
-      font-weight: bold; /* Optional: Make the text bold */
-    }
-  }
-
-.image-with-text-2 {
+.cover-image {
   position: relative;
   display: inline-block;
   width: 100%; /* Adjust the width as needed */
   max-width: 800px; /* You can limit the max width of the image */
   overflow: hidden; /* Ensure the overlay stays inside the container */
+  margin-bottom: 25px;
 
-  img {
-    width: 100%; /* Make the image take the full width of the container */
-    height: auto; /* Maintain aspect ratio */
+  .image-container {
+    position: relative;
     display: block;
-  }
 
-  /* Add the semi-transparent black overlay */
-  &::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.15); /* 50% black transparency */
-    z-index: 1; /* Ensures overlay is between the image and the text */
+    /* Add the semi-transparent black overlay */
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.15); /* Black transparency */
+      z-index: 1; /* Ensures overlay is between the image and the text */
+    }
+
+    img {
+      width: 100%; /* Full width for the image */
+      height: auto; /* Maintain aspect ratio */
+      display: block;
+      position: relative;
+      z-index: 2; /* Place image above the overlay */
+    }
   }
 
   .image-text {
@@ -79,6 +60,21 @@
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* Optional faint shadow */
     margin-top: 0; /* No extra margin above */
   }
+
+  
+  /* Caption styling */
+  .image-caption {
+    position: relative;
+    margin-top: 8px; /* Spacing below the image */
+    font-size: 0.9em;
+    color: #666; /* Gray text color */
+    text-align: center;
+    font-style: italic;
+    background: transparent; /* No background */
+    padding: 0; /* Remove any padding */
+  }
+
+
   /* Media query for phones (max-width 768px) */
   @media (max-width: 768px) {
     .main-title {
@@ -87,6 +83,10 @@
 
     .subtitle {
       font-size: 1.2em; /* Smaller size for subtitle on phones */
+    }
+    
+    .image-caption {
+      font-size: 0.8em; /* Smaller font size for captions on phones */
     }
   }
 
@@ -99,6 +99,10 @@
     .subtitle {
       font-size: 1em; /* Even smaller size for subtitle */
     }
+
+    .image-caption {
+      font-size: 0.7em; /* Even smaller font size for captions */
+    }
   }
 }
 
@@ -110,6 +114,7 @@
   text-align: center;
   z-index: 2;
   color: black;
+  margin-bottom: 25px;
   
   /* Main title */
   .main-title {
@@ -150,32 +155,131 @@
 }
 
 
-.image-with-description {
+.post-image {
   position: relative;
-  display: inline-block;
+  display: block;
   width: 100%; /* Adjust the width as needed */
-  max-width: 800px; /* You can limit the max width of the image */
+  max-width: 800px; /* Limit the max width of the image */
+  margin: 0 auto 25px auto; /* Center horizontally with margin auto */
+  overflow: hidden; /* Ensure the overlay stays inside the container */
 
   img {
-    width: 100%; /* Make the image take the full width of the container */
-    height: auto; /* Maintain aspect ratio */
+      width: 100%; /* Full width for the image */
+      height: auto; /* Maintain aspect ratio */
+      display: block;
+      position: relative;
+      z-index: 2; /* Place image above the overlay */
   }
 
-  .image-text {
-    position: absolute;
-    // bottom: 20px; /* Adjust this to position the text vertically */
-    // left: 20px; /* Adjust this to position the text horizontally */
-      top: 0%; /* Centers the text vertically */
-      left: 0%; /* Centers the text horizontally */
-      // transform: translate(-50%, -50%); /* Adjusts for the height and width of the text itself */
-      text-align: left; /* Center text inside the text box */
-    color: black; /* Text color (change as needed) */
-    font-size: 1.5em; /* Adjust the text size */
-    // background-color: rgba(0, 0, 0, 0.5); /* Optional: Background behind text for better visibility */
-    // padding: 10px;
-    // font-weight: bold; /* Optional: Make the text bold */
+  /* Caption styling */
+  .image-caption {
+    position: relative;
+    margin-top: 8px; /* Spacing below the image */
+    // margin-bottom: 20px; 
+    font-size: 0.9em;
+    color: #666; /* Gray text color */
+    text-align: center;
+    font-style: italic;
+    background: transparent; /* No background */
+    padding: 0; /* Remove any padding */
+  }
+
+  /* Media query for phones (max-width 768px) */
+  @media (max-width: 768px) {
+    .image-caption {
+      font-size: 0.8em; /* Smaller font size for captions on phones */
+    }
+  }
+
+  /* Media query for very small phones (max-width 576px) */
+  @media (max-width: 576px) {
+    .image-caption {
+      font-size: 0.7em; /* Even smaller font size for captions */
+    }
   }
 }
+
+.post-image-vertical {
+  @extend .post-image; /* Inherit everything from .post-image */
+  max-width: 450px; /* Override max-width */
+}
+
+.post-image-horizontal-small {
+  @extend .post-image; /* Inherit everything from .post-image */
+  max-width: 600px; /* Override max-width */
+}
+
+// .post-image-vertical {
+//   position: relative;
+//   display: inline-block;
+//   width: 100%; /* Adjust the width as needed */
+//   max-width: 400px; /* You can limit the max width of the image */
+//   overflow: hidden; /* Ensure the overlay stays inside the container */
+//   margin-bottom: 25px;
+  
+//   img {
+//       width: 100%; /* Full width for the image */
+//       height: auto; /* Maintain aspect ratio */
+//       display: block;
+//       position: relative;
+//       z-index: 2; /* Place image above the overlay */
+//   }
+
+//   /* Caption styling */
+//   .image-caption {
+//     position: relative;
+//     margin-top: 8px; /* Spacing below the image */
+//     // margin-bottom: 20px; 
+//     font-size: 0.9em;
+//     color: #666; /* Gray text color */
+//     text-align: center;
+//     font-style: italic;
+//     background: transparent; /* No background */
+//     padding: 0; /* Remove any padding */
+//   }
+
+//   /* Media query for phones (max-width 768px) */
+//   @media (max-width: 768px) {
+//     .image-caption {
+//       font-size: 0.8em; /* Smaller font size for captions on phones */
+//     }
+//   }
+
+//   /* Media query for very small phones (max-width 576px) */
+//   @media (max-width: 576px) {
+//     .image-caption {
+//       font-size: 0.7em; /* Even smaller font size for captions */
+//     }
+//   }
+// }
+
+
+// .image-with-description {
+//   position: relative;
+//   display: inline-block;
+//   width: 100%; /* Adjust the width as needed */
+//   max-width: 800px; /* You can limit the max width of the image */
+
+//   img {
+//     width: 100%; /* Make the image take the full width of the container */
+//     height: auto; /* Maintain aspect ratio */
+//   }
+
+//   .image-text {
+//     position: absolute;
+//     // bottom: 20px; /* Adjust this to position the text vertically */
+//     // left: 20px; /* Adjust this to position the text horizontally */
+//       top: 0%; /* Centers the text vertically */
+//       left: 0%; /* Centers the text horizontally */
+//       // transform: translate(-50%, -50%); /* Adjusts for the height and width of the text itself */
+//       text-align: left; /* Center text inside the text box */
+//     color: black; /* Text color (change as needed) */
+//     font-size: 1.5em; /* Adjust the text size */
+//     // background-color: rgba(0, 0, 0, 0.5); /* Optional: Background behind text for better visibility */
+//     // padding: 10px;
+//     // font-weight: bold; /* Optional: Make the text bold */
+//   }
+// }
 
 
 .excerpt-image {

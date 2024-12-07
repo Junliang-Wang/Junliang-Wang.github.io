@@ -15,7 +15,7 @@ Since we entered the new year recently, today’s post is about the question: �
   <div class="main-title">A year in pixels</div>
   <div class="subtitle">My effortless diary to unblur my past</div>
 </div>
-<br>
+
 First of all, for those who don’t know me well, I am a **productivity nerd**. 
 I love data, simple habits and analyze myself. 
 Since we entered the new year recently, today’s post is about the question: **“How was my last year?”**.

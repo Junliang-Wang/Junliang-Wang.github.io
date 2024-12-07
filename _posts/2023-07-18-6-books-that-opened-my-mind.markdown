@@ -12,38 +12,11 @@ Therefore, I want to share with you my 6 favorite eye-opening books (not in a pa
 "
 # excerpt_image: "/assets/images/trust_2.png"
 ---
-<style>
-  .book-container {
-      width: 80%; /* Adjust the width percentage as needed */
-      margin: 0 auto; /* Centers the div horizontally */
-    }
-    
-    .book {
-      text-align: center;
-      font-size: 2em;
-      font-style: normal;
-      font-weight: 700;
-      margin: 0.2em 0;
-    }
-    
-    .book-author {
-      text-align: center;
-      font-size: 1.2em;
-      font-style: italic;
-      margin: 1em 0;
-    }
-</style>
-<div class="title-without-image">
-  <div class="main-title">6 books that opened my mind</div>
-  <!-- <div class="subtitle">My effortless diary to unblur my past</div> -->
-</div>
-<br>
 **Books are by far the best investment you can make.**
 Period.
 That's why, I felt extremely lucky every time I find one that **_radically_ changes my understanding** on any topic.
 Therefore, I want to share with you **my 6 favorite eye-opening books** (not in a particular order).
 
-<br>
 <div class="book-container">
   <div class="book">
     Rich dad, poor dad
@@ -63,7 +36,6 @@ After being exposed to concepts such as assets, liabilities, or compound interes
 But that's ok.
 It's never too late to start the journey towards **financial independence**.
 
-<br>
 <div class="book-container">
   <div class="book">
     The 4-hour workweek
@@ -80,7 +52,6 @@ The answer is yes, but the real question is how.
 Although many step-by-step examples described in the book are outdated, the key principles are timeless.
 You are not going to regret this read.
 
-<br>
 <div class="book-container">
   <div class="book">
     Born to run
@@ -100,7 +71,6 @@ FYI, their members can run easily 50 km per day… in the mountains… and with 
 **You don't need to be a runner to enjoy** this gem, but I am sure that after finishing it, you will have the urge to go out jogging!
 Look at me, it made me to fall in love with trail running.
 
-<br>
 <div class="book-container">
   <div class="book">
     How to avoid a climate disaster
@@ -120,8 +90,6 @@ Although this may provoke anxiety, **there is hope**.
 There are a large number of startups with brilliant ideas racing to solve thousand and one climate challenges.
 So, this book may make you reorient your career.
 
-
-<br>
 <div class="book-container">
   <div class="book">
     Outlive
@@ -141,7 +109,6 @@ Don't be scared off by the deep dives into the technical details, the core conce
 Few examples of my favorite ones are the ideal of the marginal decade, how to screen for colon cancer, the centennial decathlon, or the relation between stability and longevity.
 Without a doubt, this reading will make you **reconsider your lifestyle**.
 
-<br>
 <div class="book-container">
   <div class="book">
     Models

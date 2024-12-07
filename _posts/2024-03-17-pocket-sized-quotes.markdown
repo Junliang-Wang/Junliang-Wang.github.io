@@ -11,13 +11,13 @@ To me, quotes are simply pocket-sized life lessons!
 And the best ones do not even need context!"
 # excerpt_image: "/assets/images/my-excerpt-image.jpg"
 ---
-<div class="image-with-text-2">
+<div class="cover-image">
   <img src="/assets/images/posts/2024-03-17-pocked-sized-quotes/quotes_1.png" alt="Quotes that fit in my pocket">
   <div class="image-text"> <!-- Custom color here -->
     <div class="main-title"> Quotes that fit in my pocket</div>
   </div>
 </div>
-<br>
+
 People collect coins and antiques; **I collect quotes**.
 A few well-chosen words can contain a book-worth of knowledge. 
 How powerful is that? 
@@ -26,7 +26,6 @@ And the best ones do not even need context!
 
 Here are **four of my all-time favorite quotes**, brief yet powerful:
 
-<br>
 <div class="quote-container">
   <div class="quote">
     Ask big questions
@@ -42,7 +41,6 @@ This three-word advice is **my favorite reminder to dream big**.
 We have limited time and energy, and we tend to spend them on irrelevant tasks.
 Only by asking big questions I was able to **laser-focus on impactful problems that truly excite me**.
 
-<br>
 <div class="quote-container">
   <div class="quote">
     One day or day one
@@ -60,7 +58,6 @@ Create your “day one” by taking action.
 **Swap the words, and your mindset will follow along**.
 Start by showing up.
 
-<br>
 <div class="quote-container">
   <div class="quote">
     Why bother?
@@ -76,8 +73,6 @@ For example, whenever I get annoyed, I ponder whether it is worth getting angry.
 Alternatively, when I feel really tired after long workouts, this quote reminds me why I care about training. 
 This question helps me to **choose my battles wisely, and act when it truly matters**.
 
-
-<br>
 <div class="quote-container">
   <div class="quote">
     Less is more

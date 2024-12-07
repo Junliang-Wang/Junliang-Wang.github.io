@@ -35,9 +35,9 @@ plugins:
 show_excerpts: true
 # excerpt_separator: <!--more-->
 # header_pages:
-#   - /blog.markdown
-#   - /cv.markdown
-#   - /books.markdown
+#   - /1_blog.md
+#   - /2_cv.md
+  # - /books.md
 
 # include:
 #   - minima
