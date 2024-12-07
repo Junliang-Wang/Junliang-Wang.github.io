@@ -26,10 +26,8 @@ Extending over **180km**, the path summits high mountains and crosses dense fore
 With an altitude gain more than 11000m, GR20 invites any nature lover to enjoy traversing Corsica from North to South.
 
 <div class="main-section">
-  Day 1: The adventure starts
-  <div class="subtitle">
-  Calenzana – Refuge d'Ortu
-  </div>
+  <div class="main-title">Day 1: The adventure starts</div>
+  <div class="subtitle">Calenzana – Refuge d'Ortu</div>
 </div>
 
 <div class="post-image-horizontal-small">
@@ -60,10 +58,8 @@ Since I wanted to be **self-sufficient**, I carried my own tent and sleeping bag
 </div>
 
 <div class="main-section">
-  Day 2: Change of plan
-  <div class="subtitle">
-  Refuge d'Ortu – Ascu Stagnu
-  </div>
+  <div class="main-title">Day 2: Change of plan</div>
+  <div class="subtitle">Refuge d'Ortu – Ascu Stagnu</div>
 </div>
 
 The average time for covering GR20 is around 16 days.
@@ -75,7 +71,6 @@ This meant that I had to double the stages almost everyday, and day 2 was one of
   <img src="/assets/images/posts/2022-12-23-corsica/Corsica_5.webp">
   <div class="image-caption">
   A white-red flag, the best friend of a GR hiker. 
- 
   </div>
 </div>
 
@@ -111,10 +106,8 @@ Because of no phone signal, this trail offered the ideal condition to being away
 </div>
 
 <div class="main-section">
-  Day 3: Touching the sky
-  <div class="subtitle">
-  Ascu Stagnu – Auberge U Vallone
-  </div>
+  <div class="main-title">Day 3: Touching the sky</div>
+  <div class="subtitle">Ascu Stagnu – Auberge U Vallone</div>
 </div>
 
 Day 3 was an exciting day because I will be standing at **the highest point of Corsica: Monte Cinto (2706m)**!
@@ -141,10 +134,8 @@ The reward was totally worthy!
 </div>
 
 <div class="main-section">
-  Day 4: Jump into a lake
-  <div class="subtitle">
-  Auberge U Vallone – Bergerie de Vaccaghja
-  </div>
+  <div class="main-title">Day 4: Jump into a lake</div>
+  <div class="subtitle">Auberge U Vallone – Bergerie de Vaccaghja</div>
 </div>
 
 Learning from previous days, I optimized **my morning routine**: wake up around 5am, pack everything (less than an hour), eat a quick breakfast (usually a couple slices of white bread and a cereal bar), stock up water, put on sun cream and head out before sunrise.
@@ -177,10 +168,8 @@ Coincidentally, on this day, I took also the longest lunch break (around 1h 20mi
 </div>
 
 <div class="main-section">
-  Day 5: Crazy wind
-  <div class="subtitle">
-  Bergerie de Vaccaghja – Refuge de Petra Piana
-  </div>
+  <div class="main-title">Day 5: Crazy wind</div>
+  <div class="subtitle">Bergerie de Vaccaghja – Refuge de Petra Piana</div>
 </div>
 
 I was asking myself everyday **"Why I am doing this?"**.
@@ -207,10 +196,8 @@ Since my tent was completely exposed to the strong winds, I had **a terrible nig
 </div>
 
 <div class="main-section">
-  Day 6: Civilization
-  <div class="subtitle">
-  Refuge de Petra Piana – Vizzavona
-  </div>
+  <div class="main-title">Day 6: Civilization</div>
+  <div class="subtitle">Refuge de Petra Piana – Vizzavona</div>
 </div>
 
 Apart from the traditional route of GR20, there are few **high-level variants** which usually involve more challenging terrains.
@@ -234,12 +221,9 @@ But, these were good news for my family and friends because they finally got an 
   </div>
 </div>
 
-
 <div class="main-section">
-  Day 7 and 8: Forest and sea
-  <div class="subtitle">
-  Vizzavona – Refuge di Verti – Refuge d'Usciolu
-  </div>
+  <div class="main-title">Day 7 and 8: Forest and sea</div>
+  <div class="subtitle">Vizzavona – Refuge di Verti – Refuge d'Usciolu</div>
 </div>
 
 The high rocky mountains were now behind.
@@ -270,10 +254,8 @@ Finally, **a sugary coffee** was the cherry on top of my break routine.
 </div>
 
 <div class="main-section">
-  Day 9: People
-  <div class="subtitle">
-  Refuge d'Usciolu – Refuge d'Asinau
-  </div>
+  <div class="main-title">Day 9: People</div>
+  <div class="subtitle">Refuge d'Usciolu – Refuge d'Asinau</div>
 </div>
 
 The **people** I met made this journey uniquely **memorable**.
@@ -302,7 +284,6 @@ Thanks for all the useful advice!
 Today would be **my last night** in the Corsican mountains.
 Although I terribly missed comforts such as a real bed, the fact that this journey was about to be over started to sink in.
 
-
 <div class="post-image-horizontal-small">
   <img src="/assets/images/posts/2022-12-23-corsica/Corsica_22.webp">
   <div class="image-caption">
@@ -311,10 +292,8 @@ Although I terribly missed comforts such as a real bed, the fact that this journ
 </div>
 
 <div class="main-section">
-  Day 10: The end
-  <div class="subtitle">
-  Refuge d'Asinau – Conca
-  </div>
+  <div class="main-title">Day 10: The end</div>
+  <div class="subtitle">Refuge d'Asinau – Conca</div>
 </div>
 
 On the last day, **I woke up much earlier**, around 3:00, because I wanted to finish before noon to catch a bus to Porto Vecchio.
