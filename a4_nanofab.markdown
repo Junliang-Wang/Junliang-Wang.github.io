@@ -11,7 +11,10 @@ I always found the microscopic "photographs" fascinating, and beautiful.
 Here, you can find a collection of my beloved devices with a short description of their purpose.
 For those non-technical readers, just appreciate the size of the features (see the scale bars; 1 um = 1000x smaller than 1 mm).
 
-<div class="main-section">Let's collide electrons!</div>
+<div class="main-section">
+  <div class="main-title">Let's collide electrons!</div>
+</div>
+
 <div class="post-image">
   <img src="/assets/images/nanofab/hbt9.webp">
   <div class="image-caption">
@@ -25,7 +28,10 @@ For instance, I successfully observed antibunching, i.e. repulsion, between two 
 This demonstration is huge for us because it lays the ground work for future implementations of in-flight manipulations. 
 For more details, check out our <a href="https://doi.org/10.1038/s41565-023-01368-5" target="_blank">Nature Nano</a> paper!
 
-<div class="main-section">Smooth injection</div>
+<div class="main-section">
+  <div class="main-title">Smooth injection</div>
+</div>
+
 <div class="post-image">
   <img src="/assets/images/nanofab/hbt8.webp">
   <div class="image-caption">
@@ -46,8 +52,9 @@ Then, to trigger the sending, we would send a very short voltage pulse to “kic
 So, here, the injection is so smooth that we could not actually have this “protected” position. 
 This is why, in the next generation, HBT9, we abandoned the smooth injection idea.
 
-
-<div class="main-section">Juggling with quantum dots</div>
+<div class="main-section">
+  <div class="main-title">Juggling with quantum dots</div>
+</div>
 <div class="post-image">
   <img src="/assets/images/nanofab/migas.webp">
   <div class="image-caption">
@@ -63,15 +70,15 @@ Although the nanofab wasn’t perfect at this point (it was **my first fully fin
 Although I could have optimized the distances in the next generation, I decided that a double dot is not necessary for our experiments. 
 Rather, it is better to have a full control of a single quantum dot.
 
-
-<div class="main-section">Cocktail of sound waves</div>
+<div class="main-section">
+  <div class="main-title">Cocktail of sound waves</div>
+</div>
 <div class="post-image">
   <img src="/assets/images/nanofab/chirpIDT.webp">
   <div class="image-caption">
   A.k.a. chirp IDT.
   </div>
 </div>
-
 
 When I joined the group as an inexperienced internship student, the project I was assigned was: let’s **compress the sound waves into a single pulse**! 
 Let me skip here the why of it, but focus on how. 
@@ -93,8 +100,9 @@ Check out the details in our <a href="https://doi.org/10.1103/PhysRevX.12.031035
 
 Furthermore, you can easily design your own IDTs using my Python package <a href="https://github.com/Junliang-Wang/idtpy" target="_blank">idtpy</a>!
 
-
-<div class="main-section">Stopwatch for flying electrons</div>
+<div class="main-section">
+  <div class="main-title">Stopwatch for flying electrons</div>
+</div>
 <div class="post-image">
   <img src="/assets/images/nanofab/tof.webp">
   <div class="image-caption">

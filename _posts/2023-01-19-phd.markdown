@@ -11,6 +11,15 @@ But, as a disclaimer, I don't recommend it to everyone!
 "
 # excerpt_image: "/assets/images/trust_2.png"
 ---
+<style>
+.main-section {
+    text-align: center; /* Center the text */
+    font-size: 2em; /* Large font size */
+    font-weight: bold; /* Make the text bold */
+    margin: 2rem 0; /* Add spacing above and below */
+  }
+</style>
+
 <div class="cover-image">
   <div class="image-container">
     <img src="/assets/images/posts/2023-01-19-phd/phd_lab_snow.webp" alt="M building of Institut Néel">
