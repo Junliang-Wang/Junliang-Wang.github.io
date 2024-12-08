@@ -22,6 +22,7 @@
       height: 100%;
       background-color: rgba(0, 0, 0, 0.25); /* Black transparency */
       z-index: 2; /* Ensures overlay is between the image and the text */
+      border-radius: 15px;
     }
 
     img {
@@ -30,6 +31,7 @@
       display: block;
       position: relative;
       z-index: 1; /* Place image above the overlay */
+      border-radius: 15px;
     }
   }
 
@@ -169,6 +171,7 @@
       display: block;
       position: relative;
       z-index: 2; /* Place image above the overlay */
+      border-radius: 15px;
   }
 
   /* Caption styling */

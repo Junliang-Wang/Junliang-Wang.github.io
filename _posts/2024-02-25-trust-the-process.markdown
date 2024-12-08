@@ -12,7 +12,7 @@ Motivation is just a temporary state.
 What's really necessary is discipline, and putting in thousands of hours.
 Whether you plan to lose weight, run 100 miles, or be financially independent, you must work hard consistently.
 "
-# excerpt_image: "/assets/images/trust_2.png"
+image: "/assets/images/posts/2024-02-25-trust-the-process/trust_1.png"
 ---
 <div class="cover-image">
   <div class="image-container">

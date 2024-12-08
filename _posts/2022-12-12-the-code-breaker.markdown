@@ -8,7 +8,7 @@ excerpt: "
 Today I want to recommend you one of my favorite book which combines detective mystery, science and biography: The Code Breaker, by Walter Isaacson.
 Let me first ask you: have you ever heard about the first genetically modified twins?
 "
-# excerpt_image: "/assets/images/trust_2.png"
+image: "/assets/images/posts/2022-12-12-the-code-breaker/book-cover.jpg"
 ---
 <div class="title-without-image">
   <div class="main-title">The Code Breaker</div>

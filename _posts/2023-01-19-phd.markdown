@@ -9,7 +9,7 @@ excerpt: "
 I am extremely proud of my personal growth during the last years, and my PhD experience has a lot to do about it.
 But, as a disclaimer, I don't recommend it to everyone!
 "
-# excerpt_image: "/assets/images/trust_2.png"
+image: "/assets/images/posts/2023-01-19-phd/phd_book.webp"
 ---
 <style>
 .main-section {
@@ -22,7 +22,7 @@ But, as a disclaimer, I don't recommend it to everyone!
 
 <div class="cover-image">
   <div class="image-container">
-    <img src="/assets/images/posts/2023-01-19-phd/phd_lab_snow.webp" alt="M building of Institut Néel">
+    <img src="/assets/images/posts/2023-01-19-phd/phd_lab_snow.webp" loading="lazy" alt="M building of Institut Néel">
   </div>
   <div class="image-text">
     <div class="main-title">My PhD: behind the scenes</div>
@@ -58,12 +58,12 @@ Weird-looking instruments, wild-hanging cables and unlabeled valves.
 I couldn't recognize any order, and thus my anxiety-meter started to rise.
 
 <div class="post-image">
-  <img src="/assets/images/posts/2023-01-19-phd/phd_lab_entrance.webp" alt="Inside M building">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_lab_entrance.webp" loading="lazy" alt="Inside M building">
   <div class="image-caption">Inside M building with cryogenic setups at the left and an optical table at the right (2017).</div>
 </div>
 
 <div class="post-image">
-  <img src="/assets/images/posts/2023-01-19-phd/phd_melusine.webp" alt="Melusine, my lovely cryostat">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_melusine.webp" loading="lazy" alt="Melusine, my lovely cryostat">
   <div class="image-caption">Melusine, my lovely cryostat, who works like a charm despite her messy-looking appearance.</div>
 </div>
 
@@ -85,7 +85,7 @@ They have to be **specific and fast to execute**.
 Trust me, our brains just love whenever we check a box!
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2023-01-19-phd/phd_onenote_1.webp" alt="A daily log featuring fast executable tasks.">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_onenote_1.webp" loading="lazy" alt="A daily log featuring fast executable tasks.">
   <div class="image-caption">A daily log featuring fast executable tasks.</div>
 </div>
 
@@ -107,14 +107,14 @@ More unexpected problems kept me busy and I started to feel no progress at all.
 Looking back now, my relentless attitude of facing these _down_ moments strongly contributed to the success of my personal development.
 
 <div class="post-image">
-  <img src="/assets/images/posts/2023-01-19-phd/phd_sample_before.webp" alt="A perfect device after fabrication.">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_sample_before.webp" loading="lazy" alt="A perfect device after fabrication.">
   <div class="image-caption">A perfect device after fabrication. 
 
 White parts correspond to nanometric gold contacts.</div>
 </div>
 
 <div class="post-image">
-  <img src="/assets/images/posts/2023-01-19-phd/phd_sample_after.webp" alt="The same device, but destroyed after the cool down.">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_sample_after.webp" loading="lazy" alt="The same device, but destroyed after the cool down.">
   <div class="image-caption">The same device, but destroyed after the cool down due to the unstable setup.</div>
 </div>
 
@@ -143,7 +143,7 @@ Leaving the science for another day, the colored patterns are equivalent to nano
 If you want to see **other weird-looking designs**, check out my nanofab collection!
 
 <div class="post-image">
-  <img src="/assets/images/posts/2023-01-19-phd/phd_hbt9.webp" alt="My final device, namely HBT9, where I got my main results.">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_hbt9.webp" loading="lazy" alt="My final device, namely HBT9, where I got my main results.">
   <div class="image-caption">My final device, namely HBT9, where I got my main results.</div>
 </div>
 
@@ -188,7 +188,7 @@ Some of my best ideas appeared during these periods!
 The bottom line here is an extremely intuitive fact: **if you want to achieve greatness in anything, you have to be obsessed**.
 
 <div class="post-image-vertical">
-  <img src="/assets/images/posts/2023-01-19-phd/phd_tomatoes.webp" alt="My army of tomatoes flourishing along with my experiments.">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_tomatoes.webp" loading="lazy" alt="My army of tomatoes flourishing along with my experiments.">
   <div class="image-caption">My army of tomatoes flourishing along with my experiments.</div>
 </div>
 
@@ -222,7 +222,7 @@ Working in a collaboration has its ups and downs, and this time it paid off by a
 I am glad to have learnt to silent my ego and **trust the others**.
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2023-01-19-phd/phd_chirp.webp" alt="Artistic image called 'a moving melody'">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_chirp.webp" loading="lazy" alt="Artistic image called 'a moving melody'">
   <div class="image-caption">Artistic image called "a moving melody" from the dissemination journal <a href="https://physics.aps.org/articles/v15/132" target="_blank">Physics</a> about our PRX paper.</div>
 </div>
 
@@ -255,7 +255,7 @@ At the time of this writing, I am really proud to announce that this work has be
 
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2023-01-19-phd/phd_onenote_2.webp" alt="A memorable Eureka moment.">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_onenote_2.webp" loading="lazy" alt="A memorable Eureka moment.">
   <div class="image-caption">A memorable Eureka moment when I saw, for the first time, the unique signature of two electrons colliding.</div>
 </div>
 
@@ -278,7 +278,7 @@ I also leave you below a photo of the **book version** with a meaningful cover!
 
 
 <div class="post-image">
-  <img src="/assets/images/posts/2023-01-19-phd/phd_book.webp" alt="My PhD thesis.">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_book.webp" loading="lazy" alt="My PhD thesis.">
   <div class="image-caption">
   My PhD thesis. Cover: two electrons flying in parallel while getting entangled (blurry lines). Potential simulations (color spectrum) overlying on the nano-device (white patterns).
   </div>
@@ -288,7 +288,7 @@ Soon after the submission, I successfully defended my thesis and **officially be
 You can see my happy face with a funny graduation hat.
 
 <div class="post-image-vertical">
-  <img src="/assets/images/posts/2023-01-19-phd/phd_defense.webp" alt="Me, with a typical 'German graduation hat' after officially obtaining my PhD.">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_defense.webp" loading="lazy" alt="Me, with a typical 'German graduation hat' after officially obtaining my PhD.">
   <div class="image-caption">Me, with a typical "German graduation hat" after officially obtaining my PhD.</div>
 </div>
 
@@ -300,5 +300,5 @@ I had the best supervisor I could ever ask for; responsible and funny flatmates 
 Definitely, people were the best part of this **tough, but great journey**.
 
 <div class="post-image">
-  <img src="/assets/images/posts/2023-01-19-phd/phd_people.webp">
+  <img src="/assets/images/posts/2023-01-19-phd/phd_people.webp" loading="lazy">
 </div>

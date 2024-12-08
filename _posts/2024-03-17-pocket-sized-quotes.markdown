@@ -9,7 +9,7 @@ A few well-chosen words can contain a book-worth of knowledge.
 How powerful is that? 
 To me, quotes are simply pocket-sized life lessons! 
 And the best ones do not even need context!"
-# excerpt_image: "/assets/images/my-excerpt-image.jpg"
+image: "/assets/images/posts/2024-03-17-pocked-sized-quotes/quotes_1.png"
 ---
 <div class="cover-image">
   <div class="image-container">

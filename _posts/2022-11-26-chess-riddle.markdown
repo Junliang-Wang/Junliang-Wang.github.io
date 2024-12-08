@@ -8,7 +8,7 @@ excerpt: "
 I am a big fan of riddles, especially those which are extremely simple to explain while having an elegant solution.
 So, here it is one of my favorites! 
 "
-# excerpt_image: "/assets/images/trust_2.png"
+image: "/assets/images/posts/2022-11-26-chess-riddle/chess_riddle.jpg"
 ---
 I am a big fan of riddles, especially those which are extremely simple to explain while having an elegant solution.
 So, here it is one of my favorites! 

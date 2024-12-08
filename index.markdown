@@ -4,16 +4,10 @@
 
 layout: home
 ---
-<link rel="stylesheet" href="{{ '/assets/css/index_styling.css' | relative_url }}">
-
 <div class="profile-container">
   <div class="profile-image">
-    <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Profile Picture">
+    <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Profile Picture" loading="lazy">
   </div>
-  <!-- <div style="display: flex; justify-content: space-around;">
-    <img src="/assets/images/profile.jpg" alt="Image 1" style="width: 25%;"/>
-    <img src="/assets/images/profile.jpg" alt="Image 2" style="width: 25%;"/>
-    </div> -->
 
   <div class="profile-content">
     <div class="text-block">

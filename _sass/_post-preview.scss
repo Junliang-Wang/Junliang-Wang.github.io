@@ -1,0 +1,57 @@
+.post-preview-container {
+  display: flex;
+  align-items: center; // Vertically align image and text
+  margin-bottom: 20px; // Add spacing between post previews
+
+  .post-preview-image {
+    display: flex; // Use flexbox for centering
+    justify-content: center; // Center the image horizontally
+    align-items: center; // Center the image vertically if needed
+    border-radius: 15px;
+    flex: 0 0 33%; // Image takes 10% of the width
+    max-width: 33%; // Ensure the image does not exceed 10% width
+    margin-left: 20px; // Add spacing between the image and text
+    // margin-right: 20px; // Add spacing between the image and text
+
+    img {
+      max-width: 100%; // Constrain width to 10% of the parent
+      max-height: 200px; // Constrain height to 100px
+      width: auto; // Adjust width proportionally
+      height: auto; // Maintain aspect ratio
+      object-fit: contain; // Ensure the image fits without cropping
+      border-radius: 8px; // Optional: rounded corners
+    }
+  }
+
+  .post-preview-text {
+    // flex: 1; // Text block takes the remaining width (90%)
+    text-align: left; // Align text to the left
+  }
+}
+
+// Responsive Styling: Override Everything
+@media (max-width: 400px) {
+  .post-preview-container {
+    display: block; // Remove flex and stack elements
+    margin-bottom: 20px;
+
+    .post-preview-image {
+      margin-right: 0; // Remove right margin
+      margin-bottom: 10px; // Add spacing below the image
+      max-width: 100%; // Allow image to span the full width
+      align-items: center; // Center the image vertically if needed
+
+      img {
+        max-width: 100%; // Image spans the width of the container
+        max-height: auto; // Allow the height to adjust proportionally
+        display: block; // Ensure it behaves as a block element
+        margin: 0 auto; // Center the image horizontally
+      }
+    }
+
+    .post-preview-text {
+      width: 100%; // Text takes full width
+      text-align: left; // Center the text for better readability
+    }
+  }
+}

@@ -9,11 +9,11 @@ excerpt: "
 I am extremely proud of my personal growth during the last years, and my PhD experience has a lot to do about it.
 But, as a disclaimer, I don't recommend it to everyone!
 "
-# excerpt_image: "/assets/images/trust_2.png"
+image: "/assets/images/posts/2022-12-23-corsica/Corsica_16.webp"
 ---
 <div class="cover-image">
   <div class="image-container">
-    <img src="/assets/images/posts/2022-12-23-corsica/Corsica_1.webp">
+    <img src="/assets/images/posts/2022-12-23-corsica/Corsica_1.webp" loading="lazy">
   </div>
   <div class="image-text">
     <div class="main-title">Corsica from North to South</div>
@@ -31,7 +31,7 @@ With an altitude gain more than 11000m, GR20 invites any nature lover to enjoy t
 </div>
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_2.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_2.webp" loading="lazy">
   <div class="image-caption">
   Leaving behind Calenzana with a beautiful sunrise.
   </div>
@@ -41,7 +41,7 @@ GR20 officially starts at **Calenzana** (255m).
 After spending the night at its camping site, I quickly found myself climbing steep slopes while having a gorgeous sunrise behind.
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_3.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_3.webp" loading="lazy">
   <div class="image-caption">
   Resting point to relax the shoulders from the backpack's weight.
   </div>
@@ -51,7 +51,7 @@ Several **refuges and bergeries** can be found along the trail, offering basic s
 Since I wanted to be **self-sufficient**, I carried my own tent and sleeping bag while eating mostly cheese and white bread.
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_4.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_4.webp" loading="lazy">
   <div class="image-caption">
   Refuge d'Ortu (1570m) where I spent my first night at the heart of Corsican mountains.
   </div>
@@ -68,7 +68,7 @@ But, after the short first day, I woke up with **a new plan**: do the entire **G
 This meant that I had to double the stages almost everyday, and day 2 was one of them.
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_5.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_5.webp" loading="lazy">
   <div class="image-caption">
   A white-red flag, the best friend of a GR hiker. 
   </div>
@@ -81,14 +81,14 @@ Landscape and appreciation.
 I simply loved it.
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_7.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_7.webp" loading="lazy">
   <div class="image-caption">
   Navigating in a valley.
   </div>
 </div>
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_8.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_8.webp" loading="lazy">
   <div class="image-caption">
   Rising up to the sky.
   </div>
@@ -99,7 +99,7 @@ So, I decided to hike GR20 completely alone.
 Because of no phone signal, this trail offered the ideal condition to being away from distractions.
 
 <div class="post-image">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_9.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_9.webp" loading="lazy">
   <div class="image-caption">
   Looking back to the astonishing valley.
   </div>
@@ -114,7 +114,7 @@ Day 3 was an exciting day because I will be standing at **the highest point of C
 Although this day only would cover one stage, there was a technical and a very steep climb ahead.
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_10.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_10.webp" loading="lazy">
   <div class="image-caption">
   Ascending towards Monte Cinto, which sits majestically at the background.
   </div>
@@ -127,7 +127,7 @@ I dropped my backpack at the crossing point and continued to climb.
 The reward was totally worthy!
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_11.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_11.webp" loading="lazy">
   <div class="image-caption">
   Me, with a gigantic smile, standing at the top of Corsica.
   </div>
@@ -141,7 +141,7 @@ The reward was totally worthy!
 Learning from previous days, I optimized **my morning routine**: wake up around 5am, pack everything (less than an hour), eat a quick breakfast (usually a couple slices of white bread and a cereal bar), stock up water, put on sun cream and head out before sunrise.
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_12.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_12.webp" loading="lazy">
   <div class="image-caption">
   What a beautiful morning!
   </div>
@@ -151,7 +151,7 @@ Apart from the beautiful nature, people was undoubtedly the crown jewel of this 
 Little I imagined how easy was to establish connections with all the **mountain lovers** and share mutual support everyday.
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_13.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_13.webp" loading="lazy">
   <div class="image-caption">
   From Refuge de Ciottulu di I Mori (1991m), looking at the upcoming path into the valley.
   </div>
@@ -161,7 +161,7 @@ Little I imagined how easy was to establish connections with all the **mountain 
 Coincidentally, on this day, I took also the longest lunch break (around 1h 20min).
 
 <div class="post-image">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_14.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_14.webp" loading="lazy">
   <div class="image-caption">
   Covered in sweat and with tired legs, I jumped in Lac du Ninu for a refreshing bath.
   </div>
@@ -177,7 +177,7 @@ I was filthy and sweaty, my backpack and clothes stank, my shoulders were sore, 
 However, every time I was hypnotized by the landscape or shared laughs with other travelers reminded me **how lucky I was**.
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_15.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_15.webp" loading="lazy">
   <div class="image-caption">
   Lac de Capitellu (1930m) is one of the hidden lakes of GR20.
   </div>
@@ -189,7 +189,7 @@ Although I completely regretted it later on.
 Since my tent was completely exposed to the strong winds, I had **a terrible night of sleep**.
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_16.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_16.webp" loading="lazy">
   <div class="image-caption">
   My camping site, facing tomorrow's trail along the ridge.
   </div>
@@ -204,7 +204,7 @@ Apart from the traditional route of GR20, there are few **high-level variants** 
 If you take these alternatives, remember to follow the **yellow marks** instead of the classical red ones!
 
 <div class="post-image">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_17.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_17.webp" loading="lazy">
   <div class="image-caption">
   Breathtaking morning at the "crêtes" variant.
   </div>
@@ -215,7 +215,7 @@ After almost a week without contact with the external world, even walking again 
 But, these were good news for my family and friends because they finally got an update from me.
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_18.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_18.webp" loading="lazy">
   <div class="image-caption">
   Often enough, random animals will be your temporary companion.
   </div>
@@ -231,7 +231,7 @@ The high rocky mountains were now behind.
 After stocking up with supplies, I was excited to leave again the civilization and dive into the nature.
 
 <div class="post-image">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_19.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_19.webp" loading="lazy">
   <div class="image-caption">
   Green layer covering the southern mountains.
   </div>
@@ -247,7 +247,7 @@ Although they had the least energy/mass ratio, I enjoyed every bite every single
 Finally, **a sugary coffee** was the cherry on top of my break routine.
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_20.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_20.webp" loading="lazy">
   <div class="image-caption">
   Contemplating the vast sea from Bocca d'Oru (1840m).
   </div>
@@ -275,7 +275,7 @@ My perfect excuse to practice French every day while chilling at the refuge.
 Thanks for all the useful advice!
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_21.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_21.webp" loading="lazy">
   <div class="image-caption">
   A typical post indicating the official and alternative trails.
   </div>
@@ -285,7 +285,7 @@ Today would be **my last night** in the Corsican mountains.
 Although I terribly missed comforts such as a real bed, the fact that this journey was about to be over started to sink in.
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_22.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_22.webp" loading="lazy">
   <div class="image-caption">
   Spectacular view at the camping site of Refuge d'Asinau (1530m).
   </div>
@@ -301,7 +301,7 @@ With **countless stars** in the night sky, I left the refuge with my headlamp on
 
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_23.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_23.webp" loading="lazy">
   <div class="image-caption">
   The most beautiful sunrise of this journey.
   </div>
@@ -311,7 +311,7 @@ With **countless stars** in the night sky, I left the refuge with my headlamp on
 The fresh-looking people I crossed during my descent reminded me on my very first day.
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_24.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_24.webp" loading="lazy">
   <div class="image-caption">
   Descending under the blazing sun, but with a gorgeous southern landscape.
   </div>
@@ -324,5 +324,5 @@ Thank you Corsica for this wonderful journey.
 Thank you Nature for allowing us to enjoy your beauty.
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_25.webp">
+  <img src="/assets/images/posts/2022-12-23-corsica/Corsica_25.webp" loading="lazy">
 </div>

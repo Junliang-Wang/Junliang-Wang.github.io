@@ -9,7 +9,7 @@ excerpt: "
 Although it may sound great to be a perfectionist, let me tell you that it is absolutely not.
 To be clear, what I understand by being a perfectionist is someone who polishes every aspect of a given project to its ultimate tiny details.
 "
-# excerpt_image: "/assets/images/trust_2.png"
+image: "/assets/images/posts/2022-12-18-perfectionist/imperfection.jpg"
 ---
 
 <div class="cover-image">

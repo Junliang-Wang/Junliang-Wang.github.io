@@ -9,7 +9,7 @@ First of all, for those who don’t know me well, I am a productivity nerd.
 I love data, simple habits and analyze myself. 
 Since we entered the new year recently, today’s post is about the question: “How was my last year?”.
 "
-# excerpt_image: "/assets/images/trust_2.png"
+image: "/assets/images/posts/2024-01-21-a-year-in-pixels/diary_1_calendar.png"
 ---
 <div class="title-without-image">
   <div class="main-title">A year in pixels</div>
@@ -28,7 +28,11 @@ Jokes aside, it’s frustrating!
 I wanted to get rid of this blurry vision and have **a clear view of my days**. 
 But, how? Allow me to jump directly to my solution: **A year in pixels!**
 
-![Example of a calendar in pixels]({{ '/assets/images/posts/2024-01-21-a-year-in-pixels/diary_1_calendar.png' | relative_url }} "Example of a calendar in pixels")
+<div class="post-image-horizontal-small">
+  <img src="/assets/images/posts/2024-01-21-a-year-in-pixels/diary_1_calendar.png" loading="lazy" alt="Example of a calendar in pixels">
+  <div class="image-caption">Example of a calendar in pixels.</div>
+</div>
+
 
 So, what is it? Few may say it’s **a simplified diary**; others, **a rating system**.
 For me, it’s **a productivity hack to know myself better**.
@@ -46,7 +50,10 @@ The **secret ingredient** is the **table-like diary** behind.
 The calendar is simply a visual representation of it. 
 Let me show you an extract of it.
 
-![Example of notes]({{ '/assets/images/posts/2024-01-21-a-year-in-pixels/diary_2_notes.png' | relative_url }} "Example of notes")
+<div class="post-image-horizontal-small">
+  <img src="/assets/images/posts/2024-01-21-a-year-in-pixels/diary_2_notes.png" loading="lazy" alt="Example of notes">
+  <div class="image-caption">Example of notes.</div>
+</div>
 
 You can see why my Monday was neutral. 
 Apart from work, I focused mainly on fixing things at home. 

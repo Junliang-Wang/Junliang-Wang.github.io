@@ -12,24 +12,34 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+      {%- for post in site.posts -%}     
+      <div class="post-preview-container">
+        <!-- {%- if post.image -%}
+        <div class="post-preview-image">
+          <img src="{{ post.image | default: '/assets/images/default-post.webp' }}" alt="{{ post.title | escape }}" loading="lazy">
+        </div>
+        {%- endif -%} -->
+        <div class="post-preview-text">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <h3>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h3>
+            {%- if site.show_excerpts -%}
+              <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+            {%- endif -%}
+        </div>
+        {%- if post.image -%}
+        <div class="post-preview-image">
+          <a href="{{ post.url | relative_url }}">
+            <img src="{{ post.image | default: '/assets/images/default-post.webp' }}" alt="{{ post.title | escape }}" loading="lazy">
           </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+        </div>
         {%- endif -%}
-      </li>
+      </div>
       {%- endfor -%}
     </ul>
-    <!-- <p style="text-align: center; font-size: 20px; color: grey;"><i>Website migration in progress... Older posts will be back soon...</i></p> -->
-
-    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
   {%- endif -%}
-
 </div>

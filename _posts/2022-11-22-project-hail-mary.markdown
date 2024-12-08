@@ -9,7 +9,7 @@ Let me share with you one of the best sci-fi book I read this year!
 I bet you have heard about The Martian: the surviving chronicle of a lost human in the red planet.
 If not, you are doubly lucky because two amazing interstellar journeys are waiting for you.
 "
-# excerpt_image: "/assets/images/trust_2.png"
+image: "/assets/images/posts/2022-11-22-project-hail-mary/project-hail-mary-cover.jpg"
 ---
 <div class="title-without-image">
   <div class="main-title">Project Hail Mary</div>

@@ -10,8 +10,19 @@ Period.
 That's why, I felt extremely lucky every time I find one that radically changes my understanding on any topic.
 Therefore, I want to share with you my 6 favorite eye-opening books (not in a particular order).
 "
-# excerpt_image: "/assets/images/trust_2.png"
+image: "/assets/images/posts/2023-07-18-books/books_cover.jpeg"
 ---
+
+<div class="cover-image">
+  <div class="image-container">
+    <img src="/assets/images/posts/2023-07-18-books/books_cover.jpeg" loading="lazy">
+  </div>
+  <div class="image-text">
+    <div class="main-title">6 books that opened my mind</div>
+  </div>
+</div>
+
+
 **Books are by far the best investment you can make.**
 Period.
 That's why, I felt extremely lucky every time I find one that **_radically_ changes my understanding** on any topic.
