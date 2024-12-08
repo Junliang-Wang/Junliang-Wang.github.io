@@ -33,7 +33,6 @@ But, how? Allow me to jump directly to my solution: **A year in pixels!**
   <div class="image-caption">Example of a calendar in pixels.</div>
 </div>
 
-
 So, what is it? Few may say it’s **a simplified diary**; others, **a rating system**.
 For me, it’s **a productivity hack to know myself better**.
 

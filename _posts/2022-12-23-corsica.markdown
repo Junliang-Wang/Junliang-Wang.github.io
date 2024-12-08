@@ -6,8 +6,9 @@ permalink: /corsica/
 # categories: reflections
 show_title: false
 excerpt: "
-I am extremely proud of my personal growth during the last years, and my PhD experience has a lot to do about it.
-But, as a disclaimer, I don't recommend it to everyone!
+Corsica, the French mediterranean island surrounded by crystal clear water while hosting one the most beloved and challenging hiking trail in Europe: GR20.
+Extending over 180km, the path summits high mountains and crosses dense forests.
+With an altitude gain more than 11000m, GR20 invites any nature lover to enjoy traversing Corsica from North to South.
 "
 image: "/assets/images/posts/2022-12-23-corsica/Corsica_16.webp"
 ---

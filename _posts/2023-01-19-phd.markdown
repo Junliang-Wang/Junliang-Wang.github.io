@@ -140,7 +140,7 @@ By caring about every single detail in the process, I managed to achieve an **al
 
 Let me show you **my most beloved sample** (see below). 
 Leaving the science for another day, the colored patterns are equivalent to nanoscopic "highways" for electrons! 
-If you want to see **other weird-looking designs**, check out my nanofab collection!
+If you want to see **other weird-looking designs**, check out my [nanofab](/nanofab/) collection!
 
 <div class="post-image">
   <img src="/assets/images/posts/2023-01-19-phd/phd_hbt9.webp" loading="lazy" alt="My final device, namely HBT9, where I got my main results.">

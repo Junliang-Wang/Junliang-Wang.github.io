@@ -5,6 +5,7 @@ date: 2024-02-25 07:00:00 +0000
 # categories: reflections
 show_title: false
 excerpt: "
+What do we need to achieve our goals?
 Is it motivation?
 No, it's not.
 As David Goggins says, “Motivation is crap”.
