@@ -25,10 +25,10 @@
 }
 
 .profile-content p {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.6;
   color: #000000;
-  text-align: justify;
+  text-align: left;
   padding: 10px;
   margin: 0 auto;
   max-width: 800px;
@@ -37,7 +37,7 @@
 .profile-buttons {
   display: flex;
   justify-content: space-between;
-  margin-top: 20px;
+  margin-top: 10px;
   max-width: 100%;
   padding: 0 10px;
 }
@@ -87,6 +87,7 @@
   }
 
   .profile-content p {
+    font-size: 1rem;
     text-align: left; /* Text is easier to read aligned left on small screens */
     padding: 10px;
   }
@@ -99,4 +100,78 @@
   .profile-buttons .btn {
     margin: 10px 0; /* Space between buttons vertically */
   }
+}
+
+.embeddable-buttondown-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 400px;
+  margin: auto;
+  background-color: #f9f9f9; /* Light gray background */
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+
+  label {
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: #333; /* Darker text for readability */
+    margin-bottom: 8px;
+    text-align: center;
+  }
+
+  .form-group {
+    display: flex;
+    width: 100%;
+    gap: 8px;
+  }
+
+  input[type="email"] {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 0.8rem;
+  }
+
+  input[type="submit"] {
+    background-color: #ffffff; /* Primary blue color */
+    color: rgb(0, 0, 0);
+    border: 1px solid #000000;
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+      background-color: #000000; /* Darker blue on hover */
+      color: rgb(255, 255, 255);
+  }
+  }
+}
+
+/* Social icons section */
+.social-icons {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.social-icons a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.social-icons img {
+  width: 24px; /* Adjustable size */
+  height: 24px; /* Adjustable size */
+  transition: transform 0.2s ease;
+}
+
+.social-icons img:hover {
+  transform: scale(1.2);
 }
