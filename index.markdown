@@ -97,7 +97,7 @@ layout: home
       onsubmit="window.open('https://buttondown.com/angwng', 'popupwindow')"
       class="embeddable-buttondown-form"
     >
-      <label for="bd-email">Subscribe to get notified with new posts!</label>
+      <label for="bd-email">Subscribe to get notified about new posts!</label>
       <div class="form-group">
         <input type="email" name="email" id="bd-email" placeholder="Enter your email" required />
         <input type="submit" value="Subscribe" />
