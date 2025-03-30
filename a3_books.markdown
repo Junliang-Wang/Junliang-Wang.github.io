@@ -27,6 +27,8 @@ P.S.: Currently I am taking a break from reading.
 As Tim Ferriss said, "being busy is a form of laziness".
 I felt like too much reading kept my brain busy, and thus I had little time to think.
 
+P.P.S.: Blank notes mean I stopped reading because either I didn't like or I got bored with the book.
+
 # 2024
 {% include table.html csv_file="2024_readings" %}
 

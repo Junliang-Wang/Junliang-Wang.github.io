@@ -73,13 +73,13 @@ ___
 ### MSc in Materials Engineering  
 2016/09 - 2018/09 | Universidad Politécnica de Madrid (Spain)
 - Master thesis: [“Surface acoustic wave engineering for single-electron transport”](https://1drv.ms/b/s!AhCoXOs9bWF3o81exprCQYG7kIEhjg?e=UtpYNu)
-- Graduate with honor — [Rank 1 / 11 graduates](https://1drv.ms/b/s!AhCoXOs9bWF3o84O-Hqo2t800vvuIw?e=yLMrqk) — [GPA 9.37 / 10](https://1drv.ms/b/s!AhCoXOs9bWF3o84JOzy-Basq3_NE4w?e=xrhCco)
+- Graduate with honor — Rank 1 / 11 graduates — GPA 9.37 / 10
 
 <br>
 ### BSc in Nanoscience and Nanotechnology  
 2012/09 - 2016/09 | Universitat Autònoma de Barcelona (Spain)
 - Bachelor thesis: [“Synthesis and characterization of TiO2 nano fluids as electroactive materials for energy storage in flow cells”](https://1drv.ms/b/s!AhCoXOs9bWF3o81f3SXa3msiVq0XVA?e=E2KGn6)
-- [Graduate with honor](https://1drv.ms/b/s!AhCoXOs9bWF3o84I3D_o4Tp6CCZa-w?e=u3HSl4) — Rank 2 / 61 graduates — [GPA 8.80 / 10](https://1drv.ms/b/s!AhCoXOs9bWF3o84HhYNRBUEgQIIp9w?e=OdWa5k)
+- Graduate with honor — Rank 2 / 61 graduates — GPA 8.80 / 10
 
 <br>
 
@@ -160,7 +160,7 @@ ___
 
 ## Languages
 
-- English (fluent) — [TOEFL iBT score: 110/120](https://1drv.ms/b/s!AhCoXOs9bWF3o9t_0vNOzfdpPPaITw?e=8R5yIE)
+- English (fluent) — TOEFL iBT score: 110/120
 - Spanish (native)
 - Chinese (native)
 - French (basic)
@@ -170,32 +170,3 @@ ___
 ___
 
 <br>
-<!-- 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js"></script>
-<script>
-  $(document).ready(function() {
-    $("#book-table").tablesorter({
-      headers: { 2: { sorter: 'digit' } } // Sort based on the Rating column
-    });
-  });
-</script> -->
-
-<!-- <table id="book-table" data-sort-column="2" data-sort-method="desc">
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Author</th>
-      <th>Rating</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for book in site.data.books %}
-    <tr>
-      <td>{{ book.Title }}</td>
-      <td>{{ book.Author }}</td>
-      <td>{{ book.Rating }}</td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table> --> 
