@@ -42,7 +42,7 @@ The next time I talk about my ambitions, it might sound like empty words to them
 The solution? I try to keep my mouth shut and let the results speak for themselves.
 
 Everyone is different, and the beauty of life is discovering both your goals and your "anti-goals".
-It's equally important to be awared of **what you want and what you don't want**.
+It's equally important to be aware of **what you want and what you don't want**.
 Pay close attention to experiences that don't drive you.
 Eliminate or avoid them in the future.
 Refresh your mental model of yourself.
