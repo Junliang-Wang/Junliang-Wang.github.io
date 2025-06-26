@@ -90,6 +90,11 @@ ___
 ## Publications
 [Google scholar](https://scholar.google.com/citations?user=jVnCq5AAAAAJ&hl=en) - [ORCID](https://orcid.org/0000-0002-7164-1644)
 
+**Evidence of Coulomb liquid phase in few-electron droplets**{: style="font-size:18px"}
+<br>
+<!-- **J.W.** *et al.*,  -->
+[*Nature* (2025)](https://www.nature.com/articles/s41586-025-09139-z) — Highlight in [Nature News & Views](https://www.nature.com/articles/d41586-025-01713-9)
+
 **Electron qubits surfing on acoustic waves: review of recent progress**{: style="font-size:18px"}
 <br>
 <!-- **J.W.** *et al.*,  -->

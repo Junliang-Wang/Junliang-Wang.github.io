@@ -90,7 +90,7 @@ layout: home
         </p>
         </div>
       
-    <form
+    <!-- <form
       action="https://buttondown.com/api/emails/embed-subscribe/angwng"
       method="post"
       target="popupwindow"
@@ -102,7 +102,7 @@ layout: home
         <input type="email" name="email" id="bd-email" placeholder="Enter your email" required />
         <input type="submit" value="Subscribe" />
       </div>
-    </form>
+    </form> -->
 
     <!-- <div class="profile-buttons">
       <a href="/blog" class="btn">Blog</a>
