@@ -4,6 +4,93 @@ title: CV
 permalink: /cv/
 show_in_header: true
 ---
+<!-- - [Work experience](#work-experience)
+- [Education](#education)
+- [Publications](#publications)
+- [Open-source projects](#open-source-projects)
+- [Languages](#languages) -->
+
+<div style="display: flex; gap: 10px; overflow-x: auto;">
+
+<a href="#publications" style="flex: 1; padding: 10px 0; background-color: #e3f2fd; color: #0d47a1; text-align: center; text-decoration: none; border-radius: 6px; font-weight: 500; white-space: nowrap;">Publications</a>
+
+<a href="#work-experience" style="flex: 1; padding: 10px 0; background-color: #e3f2fd; color: #0d47a1; text-align: center; text-decoration: none; border-radius: 6px; font-weight: 500; white-space: nowrap;">Work experience</a>
+
+<a href="#education" style="flex: 1; padding: 10px 0; background-color: #e3f2fd; color: #0d47a1; text-align: center; text-decoration: none; border-radius: 6px; font-weight: 500; white-space: nowrap;">Education</a>
+
+<a href="#coding" style="flex: 1; padding: 10px 0; background-color: #e3f2fd; color: #0d47a1; text-align: center; text-decoration: none; border-radius: 6px; font-weight: 500; white-space: nowrap;">Coding</a>
+
+<a href="#languages" style="flex: 1; padding: 10px 0; background-color: #e3f2fd; color: #0d47a1; text-align: center; text-decoration: none; border-radius: 6px; font-weight: 500; white-space: nowrap;">Languages</a>
+
+</div>
+
+<br>
+
+___
+
+<br>
+
+## Publications
+[Google scholar](https://scholar.google.com/citations?user=jVnCq5AAAAAJ&hl=en) - [ORCID](https://orcid.org/0000-0002-7164-1644)
+
+**An 11-qubit atom processor in silicon**{: style="font-size:18px"}
+<br>
+<!-- **J.W.** *et al.*,  -->
+[arXiv:2506.03567](https://arxiv.org/abs/2506.03567)
+
+**Evidence of Coulomb liquid phase in few-electron droplets**{: style="font-size:18px"}
+<br>
+<!-- **J.W.** *et al.*,  -->
+[*Nature* (2025)](https://www.nature.com/articles/s41586-025-09139-z) — Highlight in [Nature News & Views](https://www.nature.com/articles/d41586-025-01713-9)
+
+**Electron qubits surfing on acoustic waves: review of recent progress**{: style="font-size:18px"}
+<br>
+<!-- **J.W.** *et al.*,  -->
+[*Journal of Physics D: Applied Physics* (2024)](https://iopscience.iop.org/article/10.1088/1361-6463/ad6c5a)
+
+**On-demand single-electron source via single-cycle acoustic pulses**{: style="font-size:18px"}
+<br>
+<!-- S.O., **J.W.** *et al.*,  -->
+[*Physical Review Applied* (2024)](https://doi.org/10.1103/PhysRevApplied.21.024034)
+
+**Coulomb-mediated antibunching of an electron pair surfing on sound**{: style="font-size:18px"}
+<br>
+<!-- **J.W.** *et al.*,  -->
+[*Nature Nanotechnology* (2023)](https://doi.org/10.1038/s41565-023-01368-5) — Highlight in [Nature News & Views](https://www.nature.com/articles/s41565-023-01389-0)
+
+**Generation of a single-cycle acoustic pulse: A scalable solution for transport in single-electron circuits**{: style="font-size:18px"}
+<br>
+<!-- **J.W.**, S.O., H.E. *et al.*,  -->
+[*Physical Review X* (2022)](https://doi.org/10.1103/PhysRevX.12.031035) — Highlight in [Physics](https://physics.aps.org/articles/v15/132)
+
+**Semiconductor-based electron flying qubits: Review on recent progress accelerated by numerical modelling**{: style="font-size:18px"}
+<br>
+<!-- H.E., **J.W.** *et al.*,  -->
+[*EPJ Quantum Technology* (2022)](https://doi.org/10.1140/epjqt/s40507-022-00139-w)
+
+**Unveiling the charge distribution of a GaAs-based nanoelectronic device: A large experimental data-set approach**{: style="font-size:18px"}
+<br>
+<!-- E.C., **J.W.** *et al.*,  -->
+[*Physical Review Research* (2022)](https://doi.org/10.1103/PhysRevResearch.4.043163)
+
+**In-flight distribution of an electron within a surface acoustic wave**{: style="font-size:18px"}
+<br>
+<!-- H.E., **J.W.** *et al.*,  -->
+[*Applied Physics Letters* (2021)](https://doi.org/10.1063/5.0062491) — Editor’s pick
+
+**Sound-driven single-electron transfer in a circuit of coupled quantum rails**{: style="font-size:18px"}
+<br>
+<!-- S.T., H.E., H.L., **J.W.** *et al.*,  -->
+[*Nature Communications* (2019)](https://doi.org/10.1038/s41467-019-12514-w)
+
+<!-- <br>
+
+___
+
+<br> -->
+
+<!-- ## Conferences (ToDo)--> 
+
 <br>
 
 ___
@@ -87,70 +174,8 @@ ___
 
 <br>
 
-## Publications
-[Google scholar](https://scholar.google.com/citations?user=jVnCq5AAAAAJ&hl=en) - [ORCID](https://orcid.org/0000-0002-7164-1644)
 
-**Evidence of Coulomb liquid phase in few-electron droplets**{: style="font-size:18px"}
-<br>
-<!-- **J.W.** *et al.*,  -->
-[*Nature* (2025)](https://www.nature.com/articles/s41586-025-09139-z) — Highlight in [Nature News & Views](https://www.nature.com/articles/d41586-025-01713-9)
-
-**Electron qubits surfing on acoustic waves: review of recent progress**{: style="font-size:18px"}
-<br>
-<!-- **J.W.** *et al.*,  -->
-[*Journal of Physics D: Applied Physics* (2024)](https://iopscience.iop.org/article/10.1088/1361-6463/ad6c5a)
-
-**On-demand single-electron source via single-cycle acoustic pulses**{: style="font-size:18px"}
-<br>
-<!-- S.O., **J.W.** *et al.*,  -->
-[*Physical Review Applied* (2024)](https://doi.org/10.1103/PhysRevApplied.21.024034)
-
-**Coulomb-mediated antibunching of an electron pair surfing on sound**{: style="font-size:18px"}
-<br>
-<!-- **J.W.** *et al.*,  -->
-[*Nature Nanotechnology* (2023)](https://doi.org/10.1038/s41565-023-01368-5) — Highlight in [Nature News & Views](https://www.nature.com/articles/s41565-023-01389-0)
-
-**Generation of a single-cycle acoustic pulse: A scalable solution for transport in single-electron circuits**{: style="font-size:18px"}
-<br>
-<!-- **J.W.**, S.O., H.E. *et al.*,  -->
-[*Physical Review X* (2022)](https://doi.org/10.1103/PhysRevX.12.031035) — Highlight in [Physics](https://physics.aps.org/articles/v15/132)
-
-**Semiconductor-based electron flying qubits: Review on recent progress accelerated by numerical modelling**{: style="font-size:18px"}
-<br>
-<!-- H.E., **J.W.** *et al.*,  -->
-[*EPJ Quantum Technology* (2022)](https://doi.org/10.1140/epjqt/s40507-022-00139-w)
-
-**Unveiling the charge distribution of a GaAs-based nanoelectronic device: A large experimental data-set approach**{: style="font-size:18px"}
-<br>
-<!-- E.C., **J.W.** *et al.*,  -->
-[*Physical Review Research* (2022)](https://doi.org/10.1103/PhysRevResearch.4.043163)
-
-**In-flight distribution of an electron within a surface acoustic wave**{: style="font-size:18px"}
-<br>
-<!-- H.E., **J.W.** *et al.*,  -->
-[*Applied Physics Letters* (2021)](https://doi.org/10.1063/5.0062491) — Editor’s pick
-
-**Sound-driven single-electron transfer in a circuit of coupled quantum rails**{: style="font-size:18px"}
-<br>
-<!-- S.T., H.E., H.L., **J.W.** *et al.*,  -->
-[*Nature Communications* (2019)](https://doi.org/10.1038/s41467-019-12514-w)
-
-<!-- <br>
-
-___
-
-<br> -->
-
-<!-- ## Conferences (ToDo)--> 
-
-<br>
-
-___
-
-<br>
-
-
-## Open-source projects
+## Coding
 
 - [nextnanopy](https://github.com/nextnanopy/nextnanopy) — a Python package to interface the [nextnano](https://www.nextnano.com/) software
 - [idtpy](https://github.com/Junliang-Wang/idtpy) — a Python package for the design of interdigital transducers for SAW devices
