@@ -155,6 +155,7 @@ ___
 2018/09 - 2022/07 | Université Grenoble Alpes (France)
 - PhD thesis: [“Surface acoustic waves as testbed for electron flying qubits”](https://1drv.ms/b/s!AhCoXOs9bWF3pJt7UC0MgzT9_0SfQg?e=C2SeFi) — [Best thesis award](https://doctorat.univ-grenoble-alpes.fr/doctoral-college/phd-news/2023-thesis-prize-10-young-phd-graduates-honored-by-the-universite-grenoble-alpes-1247880.kjsp?RH=1611136996047)
 - European excellence grant: _Marie Skłodowska-Curie Fellowship (No. 754303)_
+- Published 6 scientific papers, including two first-authors in [*Nature Nanotechnology*](https://doi.org/10.1038/s41565-023-01368-5) and [*Physical Review X*](https://doi.org/10.1103/PhysRevX.12.031035).
 
 <br>
 ### MSc in Materials Engineering  
