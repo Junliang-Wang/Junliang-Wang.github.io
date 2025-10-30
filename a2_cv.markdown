@@ -33,17 +33,17 @@ ___
 ## Publications
 [Google scholar](https://scholar.google.com/citations?user=jVnCq5AAAAAJ&hl=en) - [ORCID](https://orcid.org/0000-0002-7164-1644)
 
-**An 11-qubit atom processor in silicon**{: style="font-size:18px"}
+<sup>\*</sup>**An 11-qubit atom processor in silicon**{: style="font-size:18px"}
 <br>
 <!-- **J.W.** *et al.*,  -->
-[arXiv:2506.03567](https://arxiv.org/abs/2506.03567)
+[arXiv:2506.03567](https://arxiv.org/abs/2506.03567) — Accepted in *Nature*
 
 **Evidence of Coulomb liquid phase in few-electron droplets**{: style="font-size:18px"}
 <br>
 <!-- **J.W.** *et al.*,  -->
 [*Nature* (2025)](https://www.nature.com/articles/s41586-025-09139-z) — Highlight in [Nature News & Views](https://www.nature.com/articles/d41586-025-01713-9)
 
-**Electron qubits surfing on acoustic waves: review of recent progress**{: style="font-size:18px"}
+<sup>\*</sup>**Electron qubits surfing on acoustic waves: review of recent progress**{: style="font-size:18px"}
 <br>
 <!-- **J.W.** *et al.*,  -->
 [*Journal of Physics D: Applied Physics* (2024)](https://iopscience.iop.org/article/10.1088/1361-6463/ad6c5a)
@@ -53,12 +53,12 @@ ___
 <!-- S.O., **J.W.** *et al.*,  -->
 [*Physical Review Applied* (2024)](https://doi.org/10.1103/PhysRevApplied.21.024034)
 
-**Coulomb-mediated antibunching of an electron pair surfing on sound**{: style="font-size:18px"}
+<sup>\*</sup>**Coulomb-mediated antibunching of an electron pair surfing on sound**{: style="font-size:18px"}
 <br>
 <!-- **J.W.** *et al.*,  -->
 [*Nature Nanotechnology* (2023)](https://doi.org/10.1038/s41565-023-01368-5) — Highlight in [Nature News & Views](https://www.nature.com/articles/s41565-023-01389-0)
 
-**Generation of a single-cycle acoustic pulse: A scalable solution for transport in single-electron circuits**{: style="font-size:18px"}
+<sup>\*</sup>**Generation of a single-cycle acoustic pulse: A scalable solution for transport in single-electron circuits**{: style="font-size:18px"}
 <br>
 <!-- **J.W.**, S.O., H.E. *et al.*,  -->
 [*Physical Review X* (2022)](https://doi.org/10.1103/PhysRevX.12.031035) — Highlight in [Physics](https://physics.aps.org/articles/v15/132)
@@ -68,7 +68,7 @@ ___
 <!-- H.E., **J.W.** *et al.*,  -->
 [*EPJ Quantum Technology* (2022)](https://doi.org/10.1140/epjqt/s40507-022-00139-w)
 
-**Unveiling the charge distribution of a GaAs-based nanoelectronic device: A large experimental data-set approach**{: style="font-size:18px"}
+<sup>\*</sup>**Unveiling the charge distribution of a GaAs-based nanoelectronic device: A large experimental data-set approach**{: style="font-size:18px"}
 <br>
 <!-- E.C., **J.W.** *et al.*,  -->
 [*Physical Review Research* (2022)](https://doi.org/10.1103/PhysRevResearch.4.043163)
@@ -82,6 +82,8 @@ ___
 <br>
 <!-- S.T., H.E., H.L., **J.W.** *et al.*,  -->
 [*Nature Communications* (2019)](https://doi.org/10.1038/s41467-019-12514-w)
+
+<sup>\*</sup>First author
 
 <!-- <br>
 
