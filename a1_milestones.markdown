@@ -28,6 +28,7 @@ ___
   - First 50k: 50.1k +2126m (2024)
   - First 100k - [UTA100](https://live.utmb.world/uta/2024/runners/1549): 100.4k +4252m 15h40min (2024)
   - Second 100k - [Kosci100](https://www.multisportaustralia.com.au/races/ultra-trail-kosciuszko-2024/events/3/results/individuals/1386): 106.5k +3030m 16h45min (2024)
+  - First 100 Miler - [GPT100](https://events.barefootsport.co.nz/event/1402/results/551908): 162k +7700m 33h9min (2025)
 
 **Road running PBs**
   - [5k](https://www.strava.com/activities/8742796919/overview): 19:10 (3:50/km) (2023)
