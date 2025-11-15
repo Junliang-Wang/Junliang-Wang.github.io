@@ -212,6 +212,11 @@
   max-width: 600px; /* Override max-width */
 }
 
+.post-image-vertical-small {
+  @extend .post-image; /* Inherit everything from .post-image */
+  max-width: 350px; /* Override max-width */
+}
+
 // .post-image-vertical {
 //   position: relative;
 //   display: inline-block;

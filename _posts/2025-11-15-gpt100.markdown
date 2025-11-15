@@ -1,0 +1,195 @@
+---
+layout: post
+title: "Running 100 miles"
+date: 2025-11-15 07:00:00 +1100
+# categories: reflections
+show_title: false
+permalink: /gpt100/
+excerpt: "
+A week ago, I finished the toughest (and my first) 100-miler in Australia: GPT100.
+The course covers 162 km across the Grampians, with an accumulated elevation gain of 7,700 m.
+"
+image: "/assets/images/posts/2025-11-15-gpt100/gpt100-view.jpg"
+---
+
+<div class="cover-image">
+  <div class="image-container">
+    <img src="/assets/images/posts/2025-11-15-gpt100/gpt100-cover.jpg" loading="lazy">
+  </div>
+  <div class="image-text">
+    <div class="main-title">Running 100 miles</div>
+    <div class="subtitle">The hardest thing I've ever done</div>
+  </div>
+</div>
+
+A week ago, I finished the toughest (and my first) **100-miler** in Australia: [GPT100](https://events.barefootsport.co.nz/event/1402/results/551908).
+The course covers **162 km across the Grampians, with an accumulated elevation gain of 7,700 m**.
+To put it in perspective, that's almost running four marathons while climbing 90% of Everest's height!
+
+It took me **33 hours without sleep**.
+I crossed extremely technical terrain, moved through the night under heavy rain and strong wind, and dealt with freezing temperatures.
+It was a roller coaster of emotions, **from bursts of excitement to moments of deep doubt**.
+I discovered sides of myself I hadn't seen before and gained an even deeper appreciation for the power of consistency.
+
+It was a journey of throwing myself, once again, into **the unknown, the uncertainty, and the uncomfort**.
+Instead of writing a novel, I'm gonna share key thoughts and reflections that carried me through this challenge.
+I hope they inspire you to chase a better version of yourself, to push your limits while enjoying the process.
+
+<div class="post-image-vertical-small">
+  <img src="/assets/images/posts/2025-11-15-gpt100/gpt100-finish.jpg" loading="lazy">
+  <div class="image-caption">
+  Enjoying the finish line.
+  </div>
+</div>
+
+<div class="quote-container">
+  <div class="quote">
+    “Yes, but it's 50-50”
+  </div>
+</div>
+At the start line, I was buzzing, excited by the massive challenge ahead, to spend countless hours in nature, and to be surrounded by other crazy people.
+My brother from another mother, Sergi, turned to me and asked, “Are you ready?”
+With a big smile, I answered, “Yes, but it's 50–50.”
+One cannot simply train for a distance like this, and thus **the only way to find out is by trying**.
+And somehow, despite being someone who deals poorly with uncertainty, I was surprisingly calm.
+I felt at ease with not knowing the outcome;
+**I was already proud of myself just for showing up**.
+
+<div class="post-image-horizontal-small">
+  <img src="/assets/images/posts/2025-11-15-gpt100/gpt100-profile.jpg" loading="lazy">
+  <div class="image-caption">
+  My fav perk: a temporary tatto of the course profile.
+  </div>
+</div>
+
+<div class="quote-container">
+  <div class="quote">
+    “The power of silence”
+  </div>
+</div>
+To strengthen a bond, you sometimes need silence.
+Sergi and I have spent countless hours running together.
+And even though we both love talking, most of those hours are quiet. 
+That's the beauty of trust: **you can share silence without feeling the need to fill it**.
+You can go deep into your own thoughts while still feeling safe.
+
+When Sergi ran into an unexpected health issue during the miler, I felt helpless.
+I wanted to take the pain away, but there was nothing I could really do.
+Except one thing: stay next to him, quietly.
+There was no point in throwing empty lines like "this pain will go away" or "everything will be fine".
+So I just walked beside him, step after step, for as long as he needed.
+**Sometimes, simply being there is enough**.
+
+<div class="post-image-vertical-small">
+  <img src="/assets/images/posts/2025-11-15-gpt100/gpt100-uphill.jpg" loading="lazy">
+  <div class="image-caption">
+  Steep climb along Sergi.
+  </div>
+</div>
+
+<div class="quote-container">
+  <div class="quote">
+    “Just one more aid station”
+  </div>
+</div>
+Not even halfway, around 65 km, **the doubts started creeping in**.
+I felt overwhelmed by the hours still ahead.
+Darkness was closing in, and the hardest section was right around the corner.
+"Even if I manage to push through the entire night without sleep, there will still be roughly another 12 hours to go", I thought.
+I was scared, and **I desperately wanted to quit.**
+And honestly, it would've been so easy.
+Why was I putting myself through this on purpose?
+
+But deep down, I knew **I'd never forgive myself** for stopping before giving everything I had.
+The reason of doing this didn't matter anymore; what mattered was getting the job done.
+After a long internal battle, **I made a simple deal with myself**: just get to the next aid station.
+If I still wanted to quit there, I could. 
+And, well... the rest is history.
+
+P.S.: After the race, I remembered exactly why I was doing this: to revisit the pain cave, and meet myself in my rawest form, stripped of all comfort, and have that honest conversation once again.
+
+<div class="post-image-vertical">
+  <img src="/assets/images/posts/2025-11-15-gpt100/gpt100-fog.jpg" loading="lazy">
+  <div class="image-caption">
+  Foggy trails before the sunset.
+  </div>
+</div>
+
+<div class="quote-container">
+  <div class="quote">
+    “This is so much fun!”
+  </div>
+</div>
+Sometimes we get so caught up in the execution that we forget to enjoy the moment.
+But despite all the uncertainty, I was having an incredible amount of fun exploring the Grampians.
+**It's almost ridiculous how a few rocks, a bunch of trees, and a good view can make me so genuinely happy.**
+Even during the rough night (cold, soaked, and exhausted) **I felt so grateful to be alive!**
+Just being able to walk, run, and spend endless hours outdoors filled me with joy.
+I truly felt lucky!
+
+<div class="post-image-horizontal-small">
+  <img src="/assets/images/posts/2025-11-15-gpt100/gpt100-run.jpg" loading="lazy">
+  <div class="image-caption">
+  How can I not be happy while running with this view?
+  </div>
+</div>
+
+
+<div class="quote-container">
+  <div class="quote">
+    “Friends are the family we choose”
+  </div>
+</div>
+This huge achievement isn't just mine.
+I'm incredibly lucky to be surrounded by friends who I consider family.
+**They supported me through the entire race**: feeding me at aid stations, cleaning my blisters, handing me fresh clothes, and, most importantly, giving me the emotional boost I desperately needed.
+To stay in sync with my schedule, they barely slept.
+They waited for hours, in the sun or in the cold, just to see me for a quick ten minutes before I headed back out.
+I can't put into words how grateful I am.
+They're simply the best!
+
+<div class="post-image-horizontal-small">
+  <img src="/assets/images/posts/2025-11-15-gpt100/gpt100-team.jpg" loading="lazy">
+  <div class="image-caption">
+  What an amazing team!
+  </div>
+</div>
+
+<div class="quote-container">
+  <div class="quote">
+    "Am I eating enough?"
+  </div>
+</div>
+This is the question I asked myself the most throughout the run.
+People say **an ultra is basically an eating competition**, and I couldn't agree more.
+I've learned from past experience how quickly my body and mind can hit a wall when they run low on energy (I get *very* rude!).
+Recovering from that deprived state is almost impossible, so the best strategy is to avoid it entirely.
+
+This time, I had a simple plan: stick to solid food (fruits, wraps, burgers, potatoes) for at least the first half of the race.
+Only when my stomach started to feel unsettled would I switch to gels.
+And honestly? It worked beautifully.
+
+<div class="post-image-vertical-small">
+  <img src="/assets/images/posts/2025-11-15-gpt100/gpt100-aid.jpg" loading="lazy">
+  <div class="image-caption">
+  Refueling during the night.
+  </div>
+</div>
+
+<div class="quote-container">
+  <div class="quote">
+    "What is next?"
+  </div>
+</div>
+Even before reaching the finish line, my mind was already drifting toward the next challenge.
+It's funny how **chasing goals can become its own kind of addiction.**
+But I've also realized how unhealthy it is to constantly need a new objective just to feel grounded.
+So for once, I am holding myself to not to rush into the next target.
+**I need to learn how to sit with a bit of uncertainty** and live without a clear direction for a while.
+
+<div class="post-image-horizontal-small">
+  <img src="/assets/images/posts/2025-11-15-gpt100/gpt100-view.jpg" loading="lazy">
+  <div class="image-caption">
+  Sunrise at the Grampians.
+  </div>
+</div>
