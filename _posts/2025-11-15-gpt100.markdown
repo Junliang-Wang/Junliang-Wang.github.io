@@ -149,7 +149,7 @@ I can't put into words how grateful I am.
 They're simply the best!
 
 <div class="post-image-horizontal-small">
-  <img src="/assets/images/posts/2025-11-15-gpt100/gpt100-team.jpg" loading="lazy">
+  <img src="/assets/images/posts/2025-11-15-gpt100/gpt100-team.JPG" loading="lazy">
   <div class="image-caption">
   What an amazing team!
   </div>
