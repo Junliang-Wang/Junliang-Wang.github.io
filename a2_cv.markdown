@@ -33,10 +33,12 @@ ___
 ## Publications
 [Google scholar](https://scholar.google.com/citations?user=jVnCq5AAAAAJ&hl=en) - [ORCID](https://orcid.org/0000-0002-7164-1644)
 
+<sup>\*</sup>First author
+
 <sup>\*</sup>**An 11-qubit atom processor in silicon**{: style="font-size:18px"}
 <br>
 <!-- **J.W.** *et al.*,  -->
-[arXiv:2506.03567](https://arxiv.org/abs/2506.03567) — Accepted in *Nature*
+[*Nature* (2025)](https://www.nature.com/articles/s41586-025-09827-w) — Highlight in [Nature Research Briefing](https://www.nature.com/articles/d41586-025-04044-x)
 
 **Evidence of Coulomb liquid phase in few-electron droplets**{: style="font-size:18px"}
 <br>
@@ -83,7 +85,6 @@ ___
 <!-- S.T., H.E., H.L., **J.W.** *et al.*,  -->
 [*Nature Communications* (2019)](https://doi.org/10.1038/s41467-019-12514-w)
 
-<sup>\*</sup>First author
 
 <!-- <br>
 
