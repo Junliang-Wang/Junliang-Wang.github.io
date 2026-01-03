@@ -23,10 +23,10 @@
       white-space: normal; /* Allow text wrapping */
     }
 
-    #book-table th:nth-child(1), #book-table td:nth-child(1) { width: 150px; } /* Column 1: Book */
-    #book-table th:nth-child(2), #book-table td:nth-child(2) { width: 50px; } /* Column 1: Book */
-    #book-table th:nth-child(3), #book-table td:nth-child(3) { width: 5px; } /* Column 1: Book */
-    #book-table th:nth-child(4), #book-table td:nth-child(4) { width: 5px; } /* Column 1: Book */
+    #book-table th:nth-child(1), #book-table td:nth-child(1) { width: 150px; } 
+    #book-table th:nth-child(2), #book-table td:nth-child(2) { width: 50px; }
+    #book-table th:nth-child(3), #book-table td:nth-child(3) { width: 5px; } 
+    #book-table th:nth-child(4), #book-table td:nth-child(4) { width: 5px; } 
 
     /* Media query for screens smaller than 576px (phones) */
     @media (max-width: 576px) {
@@ -39,23 +39,6 @@
             padding: 5px; /* Reduce padding for smaller screens */
         }
         
-        /*
-        #book-table th:nth-child(1), #book-table td:nth-child(1) {
-            width: 100px;
-        }
-
-        #book-table th:nth-child(2), #book-table td:nth-child(2) {
-            width: 50px;
-        }
-
-        #book-table th:nth-child(3), #book-table td:nth-child(3) {
-            width: 5px;
-        }
-
-        #book-table th:nth-child(4), #book-table td:nth-child(4) {
-            width: 5px;
-        }
-        */
     }
     </style>
 
@@ -71,14 +54,21 @@
       </tr>
     </thead>
     <tbody>
-      <!-- Loop through the specified CSV file -->
       {% assign csv_data = site.data[include.csv_file] %}
       {% for row in csv_data %}
       <tr>
-        <!-- <td>{{ row.Number }}</td> -->
         <td>{{ row.Book }}</td>
         <td>{{ row.Author }}</td>
-        <td>{{ row.Rating }}</td>
+        <td data-value="{{ row.Rating }}">
+          {% assign rating = row.Rating | plus: 0 %}
+          {% for i in (1..3) %}
+            {% if i <= rating %}
+              <span class="star">★</span>
+            {% else %}
+              <span class="star empty">☆</span>
+            {% endif %}
+          {% endfor %}
+        </td>
         <td>{{ row.Version }}</td>
       </tr>
       {% endfor %}

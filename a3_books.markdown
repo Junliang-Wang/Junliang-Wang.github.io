@@ -9,12 +9,15 @@ show_in_header: true
 <script>
   $(document).ready(function() {
     $("#book-table").tablesorter({
-      headers: { 2: { sorter: 'digit' } } // Sort based on the Rating column
+      textExtraction: function(node) {
+        // If the cell has a data-value (like Rating), use it; else use text
+        var v = $(node).attr("data-value");
+        return v !== undefined ? v : $(node).text();
+      },
+      headers: { 2: { sorter: 'digit' } } // Rating column (0-based)
     });
   });
 </script>
-
-<!-- <p style="text-align: center; font-size: 20px; color: grey;"><i>Website migration in progress...</i></p> -->
 
 Here it's my readings over the last years.
 The rating reflects my personal favorites.
@@ -23,11 +26,20 @@ Who knows, you may find here **a book that will change your mind!**
 I am always hunting for great books (any topic!).
 So, don't hesitate to **recommend me your favorites!**
 
-P.S.: Currently I am taking a break from reading. 
-As Tim Ferriss said, "being busy is a form of laziness".
-I felt like too much reading kept my brain busy, and thus I had little time to think.
+Note that:
+- Some books appear multiple times because I re-read favorites (their ratings may vary over time)
+- **Ratings** are *highly* subjective; don’t treat them as absolute.
 
-P.P.S.: Blank notes mean I stopped reading because either I didn't like or I got bored with the book.
+<span class="star">★★★</span>: Amazing book, mindblowing, all-time favorite.
+
+<span class="star">★★</span><span class="star empty">☆</span>: Highly recommendable, a nice read, I enjoyed a lot.
+
+<span class="star">★</span><span class="star empty">☆☆</span>: Neutral, but still recommendable.
+
+<span class="star empty">☆☆☆</span>: I got bored, I didn't enjoyed.
+
+# 2025
+{% include table.html csv_file="2025_readings" %}
 
 # 2024
 {% include table.html csv_file="2024_readings" %}

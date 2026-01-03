@@ -1,30 +1,30 @@
-﻿Empty,Number,Book,Author,Version,Rating
-,1,Project Hail Mary ,Andy Weir,Kindle,10
-,9,The Martian,Andy Weir,Kindle,10
-,10,The Code Breaker: Jennifer Doudna,Walter Isaacson,Audible,10
-,3,The Ride of a Lifetime,Robert Iger,Kindle,9.5
-,13,Models,Mark Manson,Audible,9.5
-,19,Born to run,Christopher McDougall,Kindle,9.5
-,21,Eat And Run,Scott Jurek,Audible,9.5
-,2,Klara and the Sun,Kazuo Ishiguru,Kindle,9
-,22,The spy and the traitor,Ben Macintyre,Kindle,9
-,15,The Psychology of Money,Morgan Housel,Audible,8.5
-,18,Memoirs of a Geisha,Arthur Golden,Kindle,8.5
-,24,Build,Tony Fadell,Audible,8.5
-,6,Mating in Captivity,Esthel Perel,Audible,8
-,8,Homo Deus,Yuval Noah Harari,Audible,8
-,11,The Subtle Art of Not Giving a F*ck,Mark Manson,Kindle,8
-,28,Love is not enough,Mark Manson,Audible,8
-,29,What doesn't kill us,Scott Carney,Audible,8
-,14,Shoe Dog,Phil Knight,Audible,7.5
-,17,"Creativity, Inc.",Ed Catmull,Audible,7
-,23,North,Scott Jurek,Audible,7
-,25,Quantum computing for everyone,Chris Bernhardt,Kindle,7
-,27,Stranger in a strange land,Robert A. Heinlein,Kindle,7
-,12,Artemis,Andy Weir,Kindle,6
-,26,In a sunburned country,Bill Bryson,Audible,6
-,4,12 Rules of Life,Jordan B. Peterson,Audible,
-,5,Leonardo da Vinci,Walter Isaacson,Audible,
-,7,The Prize,Daniel Yergin,Kindle,
-,16,How to prevent the next pandemic,Bill Gates,Kindle,
-,20,Hamnet,Maggie O'Farrell,Kindle,
+﻿Emtpy,Book,Author,Version,Rating
+,Project Hail Mary ,Andy Weir,Kindle,3
+,The Martian,Andy Weir,Kindle,3
+,The Code Breaker: Jennifer Doudna,Walter Isaacson,Audible,3
+,The Ride of a Lifetime,Robert Iger,Kindle,3
+,Models,Mark Manson,Audible,3
+,Born to run,Christopher McDougall,Kindle,3
+,Eat And Run,Scott Jurek,Audible,3
+,Klara and the Sun,Kazuo Ishiguru,Kindle,2
+,The spy and the traitor,Ben Macintyre,Kindle,2
+,The Psychology of Money,Morgan Housel,Audible,2
+,Memoirs of a Geisha,Arthur Golden,Kindle,2
+,Build,Tony Fadell,Audible,2
+,Mating in Captivity,Esthel Perel,Audible,2
+,Homo Deus,Yuval Noah Harari,Audible,2
+,The Subtle Art of Not Giving a F*ck,Mark Manson,Kindle,2
+,Love is not enough,Mark Manson,Audible,2
+,What doesn't kill us,Scott Carney,Audible,2
+,Shoe Dog,Phil Knight,Audible,1
+,"Creativity, Inc.",Ed Catmull,Audible,1
+,North,Scott Jurek,Audible,1
+,Quantum computing for everyone,Chris Bernhardt,Kindle,1
+,Stranger in a strange land,Robert A. Heinlein,Kindle,1
+,Artemis,Andy Weir,Kindle,0
+,In a sunburned country,Bill Bryson,Audible,0
+,12 Rules of Life,Jordan B. Peterson,Audible,0
+,Leonardo da Vinci,Walter Isaacson,Audible,0
+,The Prize,Daniel Yergin,Kindle,0
+,How to prevent the next pandemic,Bill Gates,Kindle,0
+,Hamnet,Maggie O'Farrell,Kindle,0
