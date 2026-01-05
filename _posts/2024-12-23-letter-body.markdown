@@ -20,15 +20,6 @@ image: "/assets/images/posts/2024-12-23-letter-body/cover.webp"
   </div>
 </div>
 
-<div class="quote-container">
-  <div class="quote">
-    Happiness is the state when you miss nothing.
-  </div>
-  <div class="quote-author">
-    — Naval Ravikant
-  </div>
-</div>
-
 Dear Body,
 
 You know, the other day I was cycling to work, and a thought popped up in my mind: "I am so healthy!".
@@ -61,3 +52,11 @@ I even know that I will complain about you being weak.
 You know me, I am quite stubborn...
 Honestly, this letter is also for myself, to remind me how wonderful it is to have a pain-free state, how marvelous it is to move around in automatic gear, and how rarely I stop to say "thank you Body, you are amazing!".
 
+<div class="quote-container">
+  <div class="quote">
+    Happiness is the state when you miss nothing.
+  </div>
+  <div class="quote-author">
+    — Naval Ravikant
+  </div>
+</div>

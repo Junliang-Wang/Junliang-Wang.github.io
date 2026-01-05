@@ -5,6 +5,7 @@
     #book-table {
       width: 100%;
       border-collapse: collapse;
+      table-layout: fixed;
     }
     
     #book-table th {
@@ -23,10 +24,17 @@
       white-space: normal; /* Allow text wrapping */
     }
 
-    #book-table th:nth-child(1), #book-table td:nth-child(1) { width: 150px; } 
-    #book-table th:nth-child(2), #book-table td:nth-child(2) { width: 50px; }
-    #book-table th:nth-child(3), #book-table td:nth-child(3) { width: 5px; } 
-    #book-table th:nth-child(4), #book-table td:nth-child(4) { width: 5px; } 
+    #book-table th:nth-child(1),
+    #book-table td:nth-child(1) { width: 35%; }
+
+    #book-table th:nth-child(2),
+    #book-table td:nth-child(2) { width: 32.5%; }
+
+    #book-table th:nth-child(3),
+    #book-table td:nth-child(3) { width: 17.5%; }
+
+    #book-table th:nth-child(4),
+    #book-table td:nth-child(4) { width: 20%; }
 
     /* Media query for screens smaller than 576px (phones) */
     @media (max-width: 576px) {
