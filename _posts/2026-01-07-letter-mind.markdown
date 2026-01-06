@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A letter to my Mind"
-date: 2026-01-06 07:00:00 +1100
+date: 2026-01-07 07:00:00 +1100
 # categories: reflections
 show_title: false
 excerpt: "
@@ -9,13 +9,13 @@ Dear Mind, last year I wrote a letter to our body.
 This time, it's just for you.
 On paper, 2025 has been a year full of accomplishments: we cycled more than 1,300 km from Sydney to Melbourne,
 "
-image: "/assets/images/posts/2026-01-06-letter-mind/letter-mind-cover.jpeg"
+image: "/assets/images/posts/2026-01-07-letter-mind/letter-mind-cover.jpeg"
 ---
 <div class="cover-image">
   <div class="image-container">
-    <img src="/assets/images/posts/2026-01-06-letter-mind/letter-mind-cover.jpeg">
+    <img src="/assets/images/posts/2026-01-07-letter-mind/letter-mind-cover.jpeg">
   </div>
-  <div class="image-text" style="top: 33%;"> <!-- Custom color here -->
+  <div class="image-text">
     <div class="main-title">A letter to my Mind</div>
   </div>
 </div>
@@ -49,19 +49,24 @@ Me, surrounded by people who genuinely care about me?
 
 And yet, I do.
 
-You reminded me that **being human means being imperfect, and that's allowed.**
-The people who truly care about me won’t walk away because of my flaws.
+Then, you reminded me that **I’m *allowed* to make mistakes**, that people who truly care about me don't walk away because of my flaws.
 
 **My dear Mind, you're my closest friend.**
 You have always been with me, celebrating my small victories, sharing quiet moments of gratitude, listening to my complaints, and cheering me up in my darkest moments.
 
 Without you, I would never be complete.
-**Without you, I would have felt truly alone.**
-Without you, I would have collapsed a thousand and one times.
+
+Without you, I would have collapsed countless times.
+
+Without you, I would have felt truly alone.
 
 Thank you for staying with me this year, and for all the years before.
 **Let's keep growing together.**
 There is still so much left to discover!
+
+Con cariño,
+
+Junliang
 
 <div class="quote-container">
   <div class="quote">
