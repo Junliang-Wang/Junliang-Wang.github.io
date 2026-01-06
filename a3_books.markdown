@@ -28,15 +28,15 @@ So, don't hesitate to **recommend me your favorites!**
 
 Note that:
 - Some books appear multiple times because I re-read favorites (their ratings may vary over time)
-- **Ratings** are *highly* subjective; don’t treat them as absolute.
+- Ratings are *highly* subjective; don’t treat them as absolute.
 
-<span class="star">★★★</span>: Amazing book, mindblowing, all-time favorite.
+<span class="star">★★★</span> Amazing book, mindblowing, all-time favorite.
 
-<span class="star">★★</span><span class="star empty">☆</span>: Highly recommendable, a nice read, I enjoyed a lot.
+<span class="star">★★</span><span class="star empty">☆</span> Highly recommendable, a nice read, I enjoyed a lot.
 
-<span class="star">★</span><span class="star empty">☆☆</span>: Neutral, but still recommendable.
+<span class="star">★</span><span class="star empty">☆☆</span> Neutral, but still recommendable.
 
-<span class="star empty">☆☆☆</span>: I got bored, I didn't enjoyed.
+<span class="star empty">☆☆☆</span> I got bored, I didn't enjoyed.
 
 # 2025
 {% include table.html csv_file="2025_readings" %}

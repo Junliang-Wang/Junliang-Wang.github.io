@@ -9,7 +9,7 @@ During my PhD, I spent countless hours in the clean room for fabricating my nano
 It's rewarding to see your designs becoming a reality.
 I always found the microscopic "photographs" fascinating, and beautiful.
 Here, you can find a collection of my beloved devices with a short description of their purpose.
-For those non-technical readers, just appreciate the size of the features (see the scale bars; 1 um = 1000x smaller than 1 mm).
+For those non-technical readers, just appreciate the size of the features (see the scale bars; 1 μm = 1000x smaller than 1 mm).
 
 <div class="main-section">
   <div class="main-title">Let's collide electrons!</div>
@@ -26,7 +26,10 @@ Although, a most suitable one should have been HOM, for Hou-Ou-Mandel interferom
 After several design iterations, I finally found a working sample for performing key experiments for my PhD. 
 For instance, I successfully observed antibunching, i.e. repulsion, between two individual flying electrons! 
 This demonstration is huge for us because it lays the ground work for future implementations of in-flight manipulations. 
-For more details, check out our <a href="https://doi.org/10.1038/s41565-023-01368-5" target="_blank">Nature Nano</a> paper!
+For more details, check out our [Nature Nanotechnology](https://doi.org/10.1038/s41565-023-01368-5) paper!
+
+Update: by adding more flying electrons, we observed signatures of an exotic liquid-like state! Check out our [Nature](https://www.nature.com/articles/s41586-025-09139-z) publication!
+<!-- **J.W.** *et al.*,  -->
 
 <div class="main-section">
   <div class="main-title">Smooth injection</div>
@@ -106,7 +109,7 @@ Furthermore, you can easily design your own IDTs using my Python package <a href
 <div class="post-image">
   <img src="/assets/images/nanofab/tof.webp">
   <div class="image-caption">
-  A.k.a. ToF, which stands for Time Of Flight.
+  A.k.a. ToF, which stands for Time of Flight.
   </div>
 </div>
 
