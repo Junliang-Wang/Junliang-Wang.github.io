@@ -5,7 +5,7 @@ date: 2026-02-14 07:00:00 +1100
 # categories: reflections
 show_title: false
 excerpt: "
-What is easier to change: the world or our perspective?
+What is easier to change: the world or our mind?
 Our brain is one of evolution's greatest inventions. 
 It can simulate futures, detect patterns, and anticipate danger.
 "
@@ -20,7 +20,7 @@ image: "/assets/images/posts/2026-02-14-perspectives/perspectives-cover.jpeg"
   </div>
 </div>
 
-**What is easier to change: the world or our perspective?**
+**What is easier to change: the world or our mind?**
 
 Our brain is one of evolution's greatest inventions. 
 It can simulate futures, detect patterns, and anticipate danger. 
