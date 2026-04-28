@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No finish line"
-date: 2026-04-28 01:00:00 +1100
+date: 2026-04-28
 # categories: reflections
 show_title: false
 excerpt: "
@@ -9,11 +9,11 @@ Recently, I hit rock bottom.
 Not physically, but mentally.
 It happened during a running event called Backyard Ultra, a format that is perfect for breaking the mind.
 "
-image: "/assets/images/posts/2026-04-28-backyard-ultra/SBU_cover.JPG"
+image: "/assets/images/posts/2026-04-28-backyard-ultra/SBU_cover.jpg"
 ---
 <div class="cover-image">
   <div class="image-container">
-    <img src="/assets/images/posts/2026-04-28-backyard-ultra/SBU_cover.JPG">
+    <img src="/assets/images/posts/2026-04-28-backyard-ultra/SBU_cover.jpg">
   </div>
   <div class="image-text">
     <div class="main-title">No finish line</div>
